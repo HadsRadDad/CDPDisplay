@@ -1,7 +1,7 @@
 const cacheName = 'ipad.v1';
 
 const cacheAssets = [
-  'flexbox.html',
+  'index.html',
   './disciplines/Fire.html',
   './disciplines/Education.html',
   './disciplines/EmergencyMan.html',
