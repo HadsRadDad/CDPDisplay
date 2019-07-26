@@ -2,7 +2,7 @@ const cacheName = 'ipad.v0.8';
 
 const cacheAssets = [
   'index.html',
-  '/disciplines/Fire.html'
+  './disciplines/Fire.html'
 ];
 
 // Call install event
