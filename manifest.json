@@ -3,22 +3,22 @@
   "name": "CDP Conference Display",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "icon.ico",
       "type": "image/png",
       "sizes": "48x48"
     },
     {
-      "src": "icon.png",
+      "src": "icon.ico",
       "type": "image/png",
       "sizes": "128x128"
     },
 	    {
-      "src": "icon.png",
+      "src": "icon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
 	    {
-      "src": "icon.png",
+      "src": "icon.ico",
       "type": "image/png",
       "sizes": "256x256"
     }
