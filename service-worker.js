@@ -1,7 +1,30 @@
-const cacheName = 'ipad.v1';
+const cacheName = 'ipad.v0.8';
 
 const cacheAssets = [
-  'index.html'
+  'index.html',
+  './disciplines/Fire.html',
+  './disciplines/Education.html',
+  './disciplines/EmergencyMan.html',
+  './disciplines/EMS.html',
+  './disciplines/GovAdmin.html',
+  './disciplines/Hazmat.html',
+  './disciplines/Healthcare.html',
+  './disciplines/Indirect.html',
+  './disciplines/IT.html',
+  './disciplines/Law.html',
+  './disciplines/Other.html',
+  './disciplines/PublicCom.html',
+  './disciplines/PublicHealth.html',
+  './disciplines/PublicWorks.html',
+  './disciplines/Safety.html',
+  './disciplines/Search.html',
+  './disciplines/Trans.html',
+  './disciplines/Vol.html',
+  'ipadbg.png',
+  'coursestyle.css',
+  'Disciplines.otf',
+  'indexstyle.css',
+  'CDP.mp4'
 ];
 
 // Call install event
