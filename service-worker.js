@@ -24,8 +24,7 @@ const cacheAssets = [
   'coursestyle.css',
   'Disciplines.otf',
   'indexstyle.css',
-  'CDP.mp4',
-  '/media/*'
+  'CDP.mp4'
 ];
 
 // Call install event

@@ -4,7 +4,7 @@ body{
 }
 
 .main {
-    background-image: linear-gradient(to right, white 59%, #2B3856 190%),url(ipadbg.png);
+    background-image: linear-gradient(to right, rgb(189, 185, 185) 59%, #2B3856 190%),url(ipadbg.png);
     background-blend-mode: hard-light;
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -171,7 +171,8 @@ a {
     width: 7vw;
     margin: 1vw;
     font-size: 1.25vw;
-    padding: .5vw
+    padding: .5vw;
+    box-shadow: 1vw 2.5vh 5px -1px black;
 }
 
 .contactbuttondiv {

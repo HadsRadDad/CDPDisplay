@@ -23,7 +23,7 @@
       "sizes": "256x256"
     }
   ],
-  "start_url": "http://localhost/flexbox.html",
+  "start_url": "https://hadsraddad.github.io/CDPDisplay/",
   "background_color": "#3367D6",
   "display": "standalone",
   "orientation": "landscape",
