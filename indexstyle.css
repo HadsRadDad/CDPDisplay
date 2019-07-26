@@ -4,7 +4,7 @@ body{
 }
 
 .main {
-    background-image: linear-gradient(to right, rgb(189, 185, 185) 59%, #2B3856 190%),url(ipadbg.png);
+    background-image: url("./ipadbg.png"), linear-gradient(to right, #d4d6f1 59%, #666699 100%);
     background-blend-mode: hard-light;
     background-size: 100% 100%;
     background-repeat: no-repeat;
