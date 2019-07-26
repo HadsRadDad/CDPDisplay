@@ -1,8 +1,6 @@
 <h1><center>Hazardous Materials Operations (HMO)</center></h1>
  
 <!--Media-->
-<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops02.jpg"></div>
 <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops03.jpg"></div>
 <!--end media-->
 

@@ -1,8 +1,6 @@
 <h1><center>Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC)</center></h1>
 
 <!--Media-->
-<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ic01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ic02.jpg"></div>
 <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ic03.jpg"></div>
 <!--end media-->
 

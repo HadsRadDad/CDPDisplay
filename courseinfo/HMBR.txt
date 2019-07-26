@@ -1,6 +1,4 @@
 <h1><center>Hazardous Materials Basic Responder for Mass Casualty Incidents (HMBR)</center></h1>
-<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/tert01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/tert02.jpg"></div>
 <center><video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/ogg">

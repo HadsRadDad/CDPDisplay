@@ -1,6 +1,5 @@
 <!--COURSE TITLE--><h1><center>Evidence Collection in a Hazardous Materials Environment (HEC)</center></h1>
-<!--course media--><div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hec01.jpg"></div>
-    <div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hec02.jpg"></div>
+<!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hec03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 <div class="photos">
