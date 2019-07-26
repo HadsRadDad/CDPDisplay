@@ -1,7 +1,7 @@
 const cacheName = 'ipad.v1';
 
 const cacheAssets = [
-  'index.html',
+  '/index.html',
   './disciplines/Fire.html',
   './disciplines/Education.html',
   './disciplines/EmergencyMan.html',
@@ -20,11 +20,11 @@ const cacheAssets = [
   './disciplines/Search.html',
   './disciplines/Trans.html',
   './disciplines/Vol.html',
-  'ipadbg.png',
-  'coursestyle.css',
-  'Disciplines.otf',
-  'indexstyle.css',
-  'CDP.mp4'
+  '/ipadbg.png',
+  '/coursestyle.css',
+  '/Disciplines.otf',
+  '/indexstyle.css',
+  '/CDP.mp4'
 ];
 
 // Call install event
