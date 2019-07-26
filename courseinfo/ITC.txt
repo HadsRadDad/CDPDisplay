@@ -1,7 +1,7 @@
 <!--COURSE TITLE--><h1><center>Instructor Training Certification (ITC)</center></h1>
-<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/itc01.jpg"></div>
-    <div class="rightin"><img class="outside" src="http://localhost/media/itc02.jpg"></div>
-    <div class="middlein"><img class="middle" src="http://localhost/media/itc03.jpg"></div>
+<!--course media--><div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/itc01.jpg"></div>
+    <div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/itc02.jpg"></div>
+    <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/itc03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 <div class="photos">
 <!--COURSE INFO-->

@@ -1,7 +1,7 @@
 <!--COURSE TITLE--><h1><center>Field Force Extrication Tactics (FFE)</center></h1>
-<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/ffe01.jpg"></div>
-    <div class="rightin"><img class="outside" src="http://localhost/media/ffe02.jpg"></div>
-    <div class="middlein"><img class="middle" src="http://localhost/media/ffe03.jpg"></div>
+<!--course media--><div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ffe01.jpg"></div>
+    <div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ffe02.jpg"></div>
+    <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ffe03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 <div class="photos">
 <h2>Overview</h2>

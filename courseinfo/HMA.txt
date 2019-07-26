@@ -1,6 +1,6 @@
 <!--COURSE TITLE--><h1><center>Hazardous Materials Awareness (HMA)</center></h1>
-<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/tert01.jpg"></div>
-<div class="rightin"><img class="outside" src="http://localhost/media/tert02.jpg"></div>
+<!--course media--><div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/tert01.jpg"></div>
+<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/tert02.jpg"></div>
 <center><video class="vid" controls autoplay>
   <source src="../media/tert.mp4" type="video/mp4">
   <source src="../media/tert.mp4" type="video/ogg">

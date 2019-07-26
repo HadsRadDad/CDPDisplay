@@ -1,12 +1,12 @@
 <!--COURSE TITLE--><h1><center>Evidence Collection in a Hazardous Materials Environment (HEC)</center></h1>
-<!--course media--><div class="leftin"><img class="outside" src="http://localhost/media/hec01.jpg"></div>
-    <div class="rightin"><img class="outside" src="http://localhost/media/hec02.jpg"></div>
-    <div class="middlein"><img class="middle" src="http://localhost/media/hec03.jpg"></div>
+<!--course media--><div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hec01.jpg"></div>
+    <div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/hec02.jpg"></div>
+    <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hec03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 <div class="photos">
 <!--COURSE INFO-->
 <h2>Overview</h2>
-<p>Through the four-day Evidence Collection in a Hazardous Materials Environment (HEC) course, responders receive instruction in hazardous evidence preservation and sampling, field screening, evaluating physical evidence, responsibilities of evidence collection teams, and methods for evidence documentation and packaging. Students perform advanced, practical tasks in the Nation’s only toxic chemical-agent training facility, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
+<p>Through the four-day Evidence Collection in a Hazardous Materials Environment (HEC) course, responders receive instruction in hazardous evidence preservation and sampling, field screening, evaluating physical evidence, responsibilities of evidence collection teams, and methods for evidence documentation and packaging. Students perform advanced, practical tasks in the Nationï¿½s only toxic chemical-agent training facility, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
 <ul>
 <li>Plan a response to a criminal hazardous materials incident.</li>
