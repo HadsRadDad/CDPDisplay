@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<link rel="stylesheet" href="indexstyle.css">
+<link rel="manifest" href="./manifest.json">
+<title>CDP Display</title>
+</head>
+<body>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('http://localhost/service-worker.js');
+                  });
+            };
+    </script>
+
+    <div class="main">
+        <div class="wrapper">
+            <div class="videobox"><video controls preload="auto" src="CDP.mp4" class="video"></video>
+                <div class="landcontactbutton">CONTACT ME</div>
+            </div>
+            <div class="buttoncontainer">
+            <a href="./disciplines/Law.html"><div class="squarebutton"><div class="emblem">a</div><div class="textunder">Law Enforcement</div></div></a>
+            <a href="./disciplines/Fire.html"><div class="squarebutton"><div class="emblem">e</div><div class="textunder">Fire Service</div></div></a>
+            <a href="./disciplines/Healthcare.html"><div class="squarebutton"><div class="emblem">b</div><div class="textunder">Healthcare</div></div></a>
+            <a href="./disciplines/EMS.html"><div class="squarebutton"><div class="emblem">d</div><div class="textunder">Emergency Medical Services</div></div></a>
+            <a href="./disciplines/EmergencyMan.html"><div class="squarebutton"><div class="emblem">c</div><div class="textunder">Emergency Management</div></div></a>
+            <a href="./disciplines/PublicHealth.html"><div class="squarebutton"><div class="emblem">f</div><div class="textunder">Public Health</div></div></a>
+            <a href="./disciplines/GovAdmin.html"><div class="squarebutton"><div class="emblem">l</div><div class="textunder">Governmental Administrative</div></div></a>
+            <a href="./disciplines/Hazmat.html"><div class="squarebutton"><div class="emblem">h</div><div class="textunder">Hazardous Material</div></div></a>
+            <a href="./disciplines/PublicCom.html"><div class="squarebutton"><div class="emblem">j</div><div class="textunder">Public Safety Communications</div></div></a>
+            <a href="./disciplines/Safety.html"><div class="squarebutton"><div class="emblem">g</div><div class="textunder">Security and Safety</div></div></a>
+            <a href="./disciplines/Education.html"><div class="squarebutton"><div class="emblem">k</div><div class="textunder">Education</div></div></a>
+            <a href="./disciplines/IT.html"><div class="squarebutton"><div class="emblem">r</div><div class="textunder">Information Technology</div></div></a>
+            <a href="./disciplines/Vol.html"><div class="squarebutton"><div class="emblem">q</div><div class="textunder">Citizen/ Community Volunteer</div></div></a>
+            <a href="./disciplines/Trans.html"><div class="squarebutton"><div class="emblem">p</div><div class="textunder">Transportation</div></div></a>
+            <a href="./disciplines/Search.html"><div class="squarebutton"><div class="emblem">o</div><div class="textunder">Search and Rescue</div></div></a>
+            <a href="./disciplines/Agriculture.html"><div class="squarebutton"><div class="emblem">n</div><div class="textunder">Agricultural Safety</div></div></a>
+            <a href="./disciplines/PublicWorks.html"><div class="squarebutton"><div class="emblem">i</div><div class="textunder">Public Works</div></div></a>
+            <a href="./disciplines/Indirect.html"><div class="squarebutton">Indirect Training Opportunities</div></a>
+            <a href="./disciplines/Other.html"><div class="squarebutton"><div class="emblemtext">A-Z</div><div class="textunder">Course List</div></div></a>
+            </div>
+            <div class="contactbuttondiv"><a href=""></a><div class="contactbutton">CONTACT ME</div><div></a>
+        </div>
+    </div>
+</body>
+</html>

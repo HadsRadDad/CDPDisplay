@@ -1,0 +1,20 @@
+<h1><center>Mass Antibiotic Dispensing Train-the-Trainer (MADT)</center></h1>
+<h2>Overview</h2>
+<p>The TechThe Mass Antibiotic Dispensing, Train-the-Trainer (MADT) is a three-day course designed to prepare state and local public health staff to implement mass dispensing training for their agencies or jurisdictions. The MADT course consists of presentations, group activities, discussions, and supporting materials that will guide the participants through the planning and execution of a course delivery.</p>
+<p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
+<ul>
+    <li>Demonstrate knowledge of adult learning and instructional-design concepts.</li>
+    <li>Demonstrate competency in training Mass Antibiotic Dispensing (MAD) materials.</li>
+    <li>Outline a framework for a plan of instruction incorporating MAD course content with project area-specific training needs.</li>
+</ul>
+<h2>Course Length</h2>
+<p>3.0 days</p>
+<h2>Prerequisites and Requirements</h2>
+<li>AWR-160, WMD/Terrorism Awareness for Emergency Responders. </li>
+<li>Participate in the Directorate of Strategic National Stockpile (DSNS) MAD course, the SNS Preparedness course, or the DSNS Mobile Preparedness Course.</li>
+<li>Have responsibility for SNS training to state, local, or other partners</li>
+<li>Have a background in public health preparedness, including knowledge of SNS operations, incident command, the National Response Framework, and the Homeland Security Exercise and Evaluation Program</li>
+<br>
+<br>
+<div>
+</div>
