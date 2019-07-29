@@ -1,4 +1,4 @@
-const cacheName = 'ipad.v0.9';
+const cacheName = 'ipad.v0.8.1';
 
 const cacheAssets = [
   'index.html',
@@ -7,21 +7,21 @@ const cacheAssets = [
   './CDP.mp4',
   './ipadbg.png',
   '.jquery-3.2.0.js',
-  './disciplines/coursestyle.css',
-  './disciplines/fema.png',
-  './disciplines/homebutton.png',
-  './disciplines/loadcourses.js',
   './disciplines/Agriculture.html',
-  './disciplines/Fire.html',
+  './disciplines/coursestyle.css',
   './disciplines/Education.html',
   './disciplines/EmergencyMan.html',
   './disciplines/EMS.html',
+  './disciplines/fema.png',
+  './disciplines/Fire.html',
   './disciplines/GovAdmin.html',
   './disciplines/Hazmat.html',
   './disciplines/Healthcare.html',
+  './disciplines/homebutton.png',
   './disciplines/Indirect.html',
   './disciplines/IT.html',
   './disciplines/Law.html',
+  './disciplines/loadcourses.js',
   './disciplines/Other.html',
   './disciplines/PublicCom.html',
   './disciplines/PublicHealth.html',
