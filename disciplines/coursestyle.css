@@ -132,24 +132,16 @@ img.outside {
 
 
 div.mediabox {
-    flex-basis: 45%;
+    flex-basis: 70%;
     border: 3px solid black;
 	cursor: none;
 }
 
 .vid {
-    flex-basis: 25%;
-}
-div.photos {
-    position: absolute;
-    top: 38vh;
-	width: 67vw;
-	cursor: none;
+    flex-basis: 70%;
+    border: 3px solid black;
 }
 
-img.middle {
-    width: 100%;
-    height: 100%;
-}
+
 
 

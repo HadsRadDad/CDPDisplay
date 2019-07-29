@@ -1,6 +1,6 @@
   <div class="title"><h1> Instructor Training Certification (ITC) </h1></div>
 <!--course media-->
-    <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/itc03.jpg"></div>
+     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/itc03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 
  <div class="infobox">

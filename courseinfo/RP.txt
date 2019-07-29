@@ -1,6 +1,6 @@
   <div class="title><h1> Respiratory Protection: Program Development and Administration (RP) </h1>
 <!--course media-->
-<div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/rp03.jpg"></div>
+ <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/rp03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 <div class="photos">
  <div class="infobox">

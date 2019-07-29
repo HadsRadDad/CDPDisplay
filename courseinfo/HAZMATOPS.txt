@@ -1,6 +1,6 @@
 <div class="title"><h1> Hazardous Materials Operations (HAZMAT Ops) </h1> </div>
 <!--Media-->
-<div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops03.jpg"></div>
+ <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops03.jpg"></div>
 <!--end media-->
 
 <!--course stuff-->
