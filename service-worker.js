@@ -1,4 +1,4 @@
-const cacheName = 'ipad.v0.8.1';
+const cacheName = 'ipad.v0.8.2';
 
 const cacheAssets = [
   'index.html',
@@ -6,7 +6,7 @@ const cacheAssets = [
   './indexstyle.css',
   './CDP.mp4',
   './ipadbg.png',
-  '.jquery-3.2.0.js',
+  './jquery-3.2.0.js',
   './disciplines/Agriculture.html',
   './disciplines/coursestyle.css',
   './disciplines/Education.html',
