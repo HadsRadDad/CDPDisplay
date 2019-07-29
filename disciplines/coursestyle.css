@@ -112,6 +112,7 @@ div.content {
     font-weight: normal;
     font-family: Sans-Serif;
     height: 10vh;
+    width: 90%;
     padding: 15px;
 	cursor: none;
 	border-style: solid;
@@ -144,8 +145,8 @@ img.middle {
 }
 
 .vid {
-    flex-basis: 50%;
-    border: 3px solid black;
+    height: 100%;
+    width: 100%;
 }
 
 

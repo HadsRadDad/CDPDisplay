@@ -1,6 +1,6 @@
   <div class="title"><h1> Improvised Explosive Device Search Procedures Course (IED Search) </h1></div>
 
- <video class="vid" controls autoplay>
+ <div class="mediabox">video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
