@@ -84,7 +84,7 @@ div.right{
     overflow-y: scroll;
     overflow-x: hidden;
     cursor: none;
-    flex-basis: 70%;
+    width: 70vw;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
