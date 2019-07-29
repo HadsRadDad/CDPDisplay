@@ -1,5 +1,5 @@
-<h1> Environmental Health Training in Emergency Response (EHTER) - Operations</center></h1>
-
+<div class="title"><h1> Environmental Health Training in Emergency Response (EHTER) - Operations </h1></div>
+<div class="infobox">
 <h2>Overview</h2>
 <p>The Environmental Health Training in Emergency Response Operations (EHTER Ops) is a four-day course which provides participants with the operations-level knowledge and skills needed to respond to incidents of natural- or human-caused disaster and to use appropriate protocols and equipment to achieve mission objectives. Participants are trained to assess problems and risks, plan for a team response, select equipment and instrumentation appropriate to the event, perform the required tasks according to the Environmental Health response protocol, and perform reporting and follow-up as instructed. The majority of the course is conducted through hands-on operational practice or response to simulated events. Participants perform Environmental Health Responder tasks while wearing personal protective equipment (PPE) Levels C and D. The course also includes training at the outdoor Northville Training Complex, part of the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility, where participants engage in scenario-based exercises in which they employ critical-thinking skills related to the selection and use of chemical, biological, radiological, nuclear, and explosive (CBRNE) detection and sampling instruments.</p>
 <ul>
@@ -24,5 +24,5 @@
 	<li>Students must be physically capable of standing and walking for prolonged periods while wearing PPE during this course.</li>
 </ul>
 <p>Exceptions to any of the above prerequisites may be granted on a case-by-case basis at the discretion of the CDP Registrar.</p>
-
+</div>
 </div>

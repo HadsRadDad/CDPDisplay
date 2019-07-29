@@ -1,14 +1,13 @@
-<!--COURSE TITLE--><h1> Personal Protective Measures for Biological Events Train-the-Trainer (PPMBTtT)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Personal Protective Measures for Biological Events Train-the-Trainer (PPMBTtT) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
+</video> 
 END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+
+ <div class="infobox">
 <h2>Overview</h2>
 <h2>Course Length</h2>
 <p>1.0 days</p>

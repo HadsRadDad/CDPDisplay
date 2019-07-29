@@ -1,9 +1,9 @@
-<!--COURSE TITLE--><h1> Evidence Collection in a Hazardous Materials Environment (HEC)</center></h1>
+  <div class="title"><h1> Evidence Collection in a Hazardous Materials Environment (HEC) </h1></div>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hec03.jpg"></div>
 <!--END OF COURSE MEDIA-->
-<div class="photos">
-<!--COURSE INFO-->
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Through the four-day Evidence Collection in a Hazardous Materials Environment (HEC) course, responders receive instruction in hazardous evidence preservation and sampling, field screening, evaluating physical evidence, responsibilities of evidence collection teams, and methods for evidence documentation and packaging. Students perform advanced, practical tasks in the Nation�s only toxic chemical-agent training facility, the Chemical, Ordnance, Biological, and Radiological (COBRA) Training Facility.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

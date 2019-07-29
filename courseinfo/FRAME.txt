@@ -1,5 +1,5 @@
-<h1> Framework for Healthcare Emergency Management (FRAME)</center></h1>
-
+<div class="title"><h1> Framework for Healthcare Emergency Management (FRAME) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Framework for Healthcare Emergency Management (FRAME) is a four-day course designed for personnel who are responsible for the development, implementation, maintenance, and administration of emergency management programs and plans for healthcare facilities and/or systems (e.g., hospitals, clinics, or community health centers). Functional areas addressed in this course include an overview of relevant standards, regulations, and organizations; integration with agencies and stakeholders; the Incident Command System (ICS) as it applies to healthcare; plans and the planning process; facility and personnel preparedness; exercises and training; and surge and related mass casualty issues (including patient care and/or ethics, evacuation, public affairs, and risk communications), recovery, and finances/reimbursement.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -31,4 +31,5 @@
 <p>Continuing Medical Education, through University of Alabama at Birmingham (additional allied health professionals may be able to apply for these continuing medical education units): 32</p>
 <p>CA Environmental Health Specialist, through National Environmental Health Association (environmental health professionals): 32</p>
 <p>Police Officer Standards and Training (POST), if approved by the student's state: 32</p>
+</div>
 </div>

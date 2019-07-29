@@ -1,5 +1,5 @@
-<h1> Radiological Concepts, Tactics and Integration (RCTIC)</center></h1>
-
+<div class="title"><h1> Radiological Concepts, Tactics and Integration (RCTIC) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Participants will use a variety of radiation detection assets and equipment required to conduct search operations either for a radiation/nuclear threat or to secure a facility in preparation for a public event. Participants will apply tactics and techniques required to effectively utilize equipment necessary to detect and identify a radiological source.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
@@ -13,5 +13,5 @@
 <p>To be eligible for the course, the student must successfully complete the following courses: Completion of a basic level Rad/Nuc equipment training course, such as, AWR-140-W WMD Radiological/Nuclear Awareness Course.</p>
 <h2>Course Length</h2>
 <p>3.0 days</p>
-
+</div>
 </div>

@@ -1,14 +1,12 @@
-<!--COURSE TITLE--><h1> Improvised Explosive Device Search Procedures Course (IED Search)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Improvised Explosive Device Search Procedures Course (IED Search) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Improvised Explosive Device (IED) Search Procedures Course is a one-day course that introduces the student to basic, low-risk search protocols. It provides learning activities that allow students to perform IED searches of a facility, an area, and a route. Students will be assessed through a performance-based assessment on the searches and a multiple-choice test.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

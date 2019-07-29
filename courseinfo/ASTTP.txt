@@ -1,5 +1,5 @@
-<h1> Active Shooter Threat Training Program (ASTTP)</center></h1>
-
+<div class="title"><h1> Active Shooter Threat Training Program (ASTTP) </h1></div>
+<div class="infobox">
 <h2>Overview</h2>
 <p>The Active Shooter Threat Training Program (ASTTP) is a 4 day course designed to provide the student with the knowledge and skills to successfully handle an active threat event. Through hands-on training, this program will provide the student the proficiency and attitude to manage these situations. The program utilizes dynamic interactive drills and scenario based training to take Active Shooter Threat Tactics Training to the next level. This program is an intensive training program that covers a variety of tactical subject matters to include: individual and team movement and operational formation. In addition, this program focuses on the role and responsibilities of the responding officers.</p>
 
@@ -13,4 +13,5 @@
 
 <h2>Course Length</h2>
 <p>4.0 days</p>
+</div>
 </div>

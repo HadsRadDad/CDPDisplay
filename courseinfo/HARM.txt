@@ -1,13 +1,11 @@
-<!--COURSE TITLE--><h1> Hazard Assessment and Response Management for CBRNE Incidents (HARM)</center></h1>
+  <div class="title"><h1> Hazard Assessment and Response Management for CBRNE Incidents (HARM) </h1></div>
 <!--course media-->
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/harm.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/harm.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-<!--END OF COURSE MEDIA-->
-<div class="photos">
-<!--COURSE INFO-->
+</video> 
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Hazard Assessment and Response Management for CBRNE Incidents (HARM), a three-day course, challenges individuals assembled from different disciplines and geographic areas to apply their operational knowledge as members of a hazardous materials (HAZMAT) team responding to a chemical, biological, radiological, nuclear, or explosive (CBRNE) incident. The course simulates the activation and deployment of a team into an active operational incident. Responders arrive in the 36th operational hour of the incident and are assigned as a HAZMAT team. The team is briefed and assigned a daily rotational period recurring over three days. Participants apply operational knowledge and skills from all emergency response disciplines in support of a HAZMAT team and assist in mitigating a CBRNE incident. All students perform tasks and respond to a variety of events in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

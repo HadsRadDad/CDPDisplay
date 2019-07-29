@@ -1,14 +1,12 @@
-<!--COURSE TITLE--><h1> Incident Complexities - Responder Actions for CBRNE Incidents (ICR)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Incident Complexities - Responder Actions for CBRNE Incidents (ICR) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>This hands-on training course is executed in a round-robin rotation in mass casualty response, decontamination procedures, scene survey and safety, and monitoring. Participants review, discuss information, and practice skills necessary to effectively respond to a CBRNE incident. Below are some, but not all, of the critical skill sets learned during this training program:</p>
 <ul>

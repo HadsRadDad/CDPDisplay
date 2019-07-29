@@ -1,14 +1,10 @@
-<!--COURSE TITLE--><h1> REP Exercise Evaluator (REEC)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title><h1> REP Exercise Evaluator (REEC) </h1>
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Radiological Preparedness (REP) REP Exercise Evaluation Course (REEC) is a 3.5-day course which provides responders the regulatory guidelines required to evaluate REP exercises, how to prepare for evaluations and observations during and after exercise activities plus techniques for exercise evaluations. Students will have the opportunity to observe video vignettes of REP exercises and the development of exercise narratives submitted to the REP Exercise Evaluation Tool (EET), for review. In conjunction with the required prerequisites this course fulfills the credentialing training requirements for becoming a Type III REP Exercise Evaluator.</p>
 <h2>Additional Requirements</h2>

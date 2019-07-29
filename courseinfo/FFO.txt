@@ -1,9 +1,9 @@
-<!--COURSE TITLE--><h1> Field Force Operations (FFO)</center></h1>
+  <div class="title"><h1> Field Force Operations (FFO) </h1></div>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ffo03.jpg"></div>
 <!--END OF COURSE MEDIA-->
-<div class="photos">
-<!--COURSE INFO-->
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The three-day Field Force Operations course provides state and local law enforcement personnel with the knowledge and skills necessary to manage and control crowds and demonstrations. Responders learn critical-thinking and intuitive decision-making skills that support safe and responsive action in regaining order. Responders receive instruction in protest types and actions, legal considerations, responsibilities of mobile field force teams, and crowd-control methods. The course culminates in a series of hands-on activities that allow responders to practice all of the learned skills (baton-holding positions, mass-arrest procedures, and riot-control formations) in a realistic context.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -28,4 +28,5 @@
 <ul>
 <p>The Center for Domestic Preparedness is authorized by the International Association for Continuing Education and Training (IACET) to offer 2.4 continuing education units for this program.</p>
 <p>Police Officer Standards and Training (POST), if approved by the student's state: 24</p>
+</div>
 </div>

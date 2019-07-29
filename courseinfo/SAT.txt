@@ -1,14 +1,13 @@
-<!--COURSE TITLE--><h1> Standardized Awareness Training Program (SAT)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title><h1> Standardized Awareness Training Program (SAT) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
+</video> 
 END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Standardized Awareness Training Program (SAT) is a one-day course that supports the parallel course, the Standardized Awareness Authorized Training, Train-the Trainer (SAAT) course, the purpose of which is to provide supervisors and trainers with the information and skills required to instruct the SAT course at their local jurisdictions. The course covers the knowledge of essential course material on chemical, biological, radiological, nuclear, and explosive (CBRNE) hazards and materials, prevention and deterrence methods, and the Emergency Response Guidebook (ERG) in order to make decisions at the awareness level.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

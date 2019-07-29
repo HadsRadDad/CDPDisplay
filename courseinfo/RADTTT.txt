@@ -1,14 +1,11 @@
-<!--COURSE TITLE--><h1> Radiological Series, Train the Trainer (RAD TtT)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Radiological Series, Train the Trainer (RAD TtT) </h1></div>
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
+</video> 
 END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Radiological Series, Train-the-Trainer (RAD TtT) is a four-day course designed for individuals the state has identified as part of a cadre of instructors and trainers responsible for providing radiological training in their jurisdictions. The course is designed to strengthen the capacity of trainers by applying principles of adult learning and training and facilitation skills in practice training sessions. The course provides students with the knowledge, skills, and ability to conduct the training for which they are responsible.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

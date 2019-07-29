@@ -1,5 +1,5 @@
-<h1> Bomb-Making Materials Awareness Program Administrator Training (BMAP AT)</center></h1>
-
+<div class="title"><h1> Bomb-Making Materials Awareness Program Administrator Training (BMAP AT) </h1></div>
+<div class="infobox">
 <h2>Overview</h2>
 <p>The purpose of this BMAP Administrators Training course is to provide supervisors, trainers, and other select representatives with the information and skills required to instruct the Bomb-Making Materials Awareness Program (BMAP) Outreach Officers course using adult learning principles.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
@@ -30,4 +30,5 @@
 <ul>
 	<li>The Center for Domestic Preparedness is authorized by IACET to offer 2.8 CEUs for this program.</li>
 </ul>
+</div>
 </div>

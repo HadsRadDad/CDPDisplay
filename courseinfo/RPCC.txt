@@ -1,14 +1,10 @@
-<!--COURSE TITLE--><h1> REP Plan Core Concepts (RPCC)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+<div class="title"><h1> REP Plan Core Concepts (RPCC) </h1></div>
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The REP Program Planning Core Concepts Course (RPCC) will assist Federal, State, tribal and local emergency managers more effectively meet the planning challenges presented to the emergency responder community during a radiological incident at a NRC-licensed commercial nuclear power plant (NPP).<p>
 <p>The awareness-level, 0.5 day course will focus on and be limited to the current REP planning methodology. This methodology goes beyond the planning guidance provided in CPG-101 and incorporates the unique planning aspects of FEMA’s REP Program. The instructional delivery is designed to create a collaborative training environment supporting discussions focused on the vertical and horizontal integration of emergency operation plans and implementation procedures between neighboring OROs and governmental authorities, providing best-practices and lessons-learned solutions to emergency planning.</p>

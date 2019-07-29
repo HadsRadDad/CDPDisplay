@@ -1,6 +1,6 @@
-<!--COURSE TITLE--><h1> Managing Public Information for All Hazards Incidents (MPI)</center></h1>
+  <div class="title"><h1> Managing Public Information for All Hazards Incidents (MPI) </h1></div>
 
-<!--COURSE INFO-->
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Managing Public Information for All-Hazards Incidents (MPI) is a four-day course that provides students with the practical knowledge of the role of the Public Information Officer, the National Incident Management System, emergency communications methods, risk communication, and interpersonal skills. Students also learn message development and delivery, legal considerations, press conferences, the operation of a Joint Information Center, stress management, and strategic communication and planning. Additionally, students conduct various public information activities and exercises, to include writing messages and conducting press conferences. The course culminates with a practical exercise designed to plan, develop, integrate, and disseminate public information for an emergency, incident, or disaster as part of a Joint Information Center.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -30,4 +30,5 @@
 <p>4.0 days</p>
 <h2>Continuing Education Credits</h2>
 <p>The Center for Domestic Preparedness is authorized by IACET to offer 3.2 CEUs for this program.</p>
+</div>
 </div>

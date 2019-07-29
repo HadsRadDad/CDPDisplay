@@ -1,9 +1,9 @@
-<!--COURSE TITLE--><h1> Instructor Training Certification (ITC)</center></h1>
+  <div class="title"><h1> Instructor Training Certification (ITC) </h1></div>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/itc03.jpg"></div>
 <!--END OF COURSE MEDIA-->
-<div class="photos">
-<!--COURSE INFO-->
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Instructor Training Course (ITC) is a five-day course that prepares emergency responders to deliver lectures and hands-on training in their local jurisdictions. The course is conducted in two phases: fundamental principles and applied principles. During the fundamental principles phase participants receive an overview of adult learning, task analysis, risk and hazard analysis, learning objectives and lesson plans, communication skills, instructional delivery and multimedia, testing and evaluations, and after action reviews. Then, during the applied principles phase, participants put these lessons into practice through a series of practice training sessions.</p>
 <p>NOTE: This course does not qualify the individual as an instructor or trainer in any specific FEMA course.</p>

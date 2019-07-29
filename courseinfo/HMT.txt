@@ -1,11 +1,10 @@
-﻿<!--COURSE TITLE--><h1> Hazardous Materials Technician (HMT)</center></h1>
+﻿  <div class="title"><h1> Hazardous Materials Technician (HMT) </h1></div>
 
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/erhm03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 
-<!--COURSE INFO-->
-<div class="photos">
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Hands-On Training for CBRNE Incidents is a two-day course in which participants develop and apply chemical, biological, radiological, nuclear or explosive (CBRNE) incident-response practices in a realistic environment. The HOT course provides participants with knowledge and skills to perform at an operations level. The HOT course provides responders with the unique opportunity to practice their knowledge and skills in a practical exercise in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

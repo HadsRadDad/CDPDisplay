@@ -1,11 +1,12 @@
-<h1> Technical Emergency Response Training for CBRNE Incidents (TERT)</center></h1>
-
+<div class="title"><h1> Technical Emergency Response Training for CBRNE Incidents (TERT) </h1></div>
+<div class-"mediabox">
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-<br>
+</video> 
+</div>
+<div class="infobox">
 <h2>Overview</h2>
 <p>The Technical Emergency Response Training for CBRNE Incidents (TERT) course is a four-day training course, which provides responders with Chemical, Biological, Radiological, Nuclear, or Explosive (CBRNE) specific and all hazards response skills enabling them to respond safely to either event. This course presents information regarding immediate response actions associated with life safety, preservation of property, and restoration of an incident site, as well as information related to the identification of CBRNE hazards. The TERT course concludes with the performance of acquired skills and tasks in a toxic environment (chemical and biological materials) at the Chemical, Ordnance, Biological, and Radiological Training Facility (COBRATF).</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

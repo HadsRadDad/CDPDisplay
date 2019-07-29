@@ -1,14 +1,12 @@
-<!--COURSE TITLE--><h1> Intermediate Hands-On Training for CBRNE Incidents (HOT-I)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+<div class="title"><h1> Intermediate Hands-On Training for CBRNE Incidents (HOT-I) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Intermediate Hands-On Training for Chemical, Biological, Radiological, Nuclear and Explosive (CBRNE) Incidents course provides participants with hands-on practical exercises that reinforce their ability to perform triage and decontamination procedures and classify residual contamination using various monitoring equipment. As part of the one-day course, participants also perform mass-casualty, decontamination, and monitoring operations within a toxic-agent training facility while wearing personal protective equipment (PPE) Level C. The HOT-I course reinforces the skills that are necessary for a safe and effective response to a CBRNE incident.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

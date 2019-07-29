@@ -1,14 +1,14 @@
-<!--COURSE TITLE--><h1> Emergency Response to Domestic Biological Incidents (ERDB)</center></h1>
+  <div class="title"><h1> Emergency Response to Domestic Biological Incidents (ERDB) </h1></div>
 <!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
 <div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
+</video> 
 END OF COURSE MEDIA
 <div class="photos"-->
-<!--COURSE INFO-->
+ <div class="infobox">
 <h2>Overview</h2>
 <p>For additional information about this course visit https://www.ncbrt.lsu.edu/Course/PER-220</p>
 <p>This course is designed to help participants safely and effectively respond to a biological incident by using an integrated approach. The course provides detailed information about various biological agents and possible methods of dissemination-whether naturally occurring or intentional. Participants will identify appropriate assessment and response actions and will review personal protection, containment measures, and tools that may be accessed during a biological incident.</p>

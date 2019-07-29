@@ -1,6 +1,6 @@
-<!--COURSE TITLE--><h1> Barrier Precautions and Controls for Highly Infectious Disease (HID)</center></h1>
+  <div class="title"><h1> Barrier Precautions and Controls for Highly Infectious Disease (HID) </h1></div>
 
-<!--COURSE INFO-->
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Barrier Precautions and Controls for Highly Infectious Disease (HID) is a three-day course that provides the student with the best practice knowledge and skill for triaging, transporting, transferring, treating, and managing persons with highly infectious diseases. Students participate in a guided discussion of best practices for managing and treating persons with a highly infectious disease from identification or presentation through conclusion and final outcome of treatment. Students receive demonstrations and practical experience in the proper donning and doffing of personal protective equipment (PPE) required to prevent provider and other patient contamination. Lastly, students conduct a series of patient management and treatment exercises in a realistic healthcare setting to include presentation at an emergency room and treatment in a hospital isolation ward using best practice barrier precautions and infection control procedures.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -27,4 +27,5 @@
     <li>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.</li>
     <li>The Alabama Board of Nursing, in partnership with the CDP, awards 24 contact hours toward continuing education credit for the successful completion of this course.</li>
 </ul>
+</div>
 </div>

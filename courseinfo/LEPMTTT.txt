@@ -1,14 +1,13 @@
-<!--COURSE TITLE--><h1> Law Enforcement Protective Measures for CBRNE Incidents, Train-the-Trainer (LEPM TtT)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Law Enforcement Protective Measures for CBRNE Incidents, Train-the-Trainer (LEPM TtT) </h1></div>
+
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Law Enforcement Protective Measures for CBRNE Incidents, Train-the-Trainer is a two-day course for law enforcement supervisors and trainers. The course provides students with the knowledge and skills to train law enforcement responders at the performance defensive level in the areas of terrorism threats, chemical hazards, biological agents, radiological hazards, law enforcement terrorist prevention and deterrence techniques, response actions, and the Incident Command System (ICS).</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

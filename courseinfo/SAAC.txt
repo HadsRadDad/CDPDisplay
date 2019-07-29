@@ -1,5 +1,5 @@
-<h1> Spectroscopic Alarm Adjudication (SAAC)</center></h1>
-
+<div class="title"><h1> Spectroscopic Alarm Adjudication (SAAC) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The purpose of this course is to equip federal, military, state, local, tribal, and territorial entities who provide mid-level reachback support with the analysis skills and knowledge necessary to rapidly analyze gamma-ray spectra, identify the radionuclides involved, and ultimately perform initial adjudication of radiation alarms. A major component of the course is focused on mastery of the PeakEasy spectroscopy analysis software tool for radionuclide identification. A secondary focus of the course emphasizes proficiency in escalating radiation alarm events to Triage for adjudication when mid-level reachback is insufficient to rule out a potential threat.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
@@ -24,5 +24,5 @@
 <p>5.0 days</p>
 <h2>Continuing Education Credits</h2>
 <p>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</p>
-
+</div>
 </div>

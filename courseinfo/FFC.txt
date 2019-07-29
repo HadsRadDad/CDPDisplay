@@ -1,6 +1,6 @@
     
-<!--COURSE TITLE--><h1> Field Force Command and Planning (FFC)</center></h1>
-<!--COURSE INFO-->
+  <div class="title"><h1> Field Force Command and Planning (FFC) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>The Field Force Command and Planning training program is a three-day course that prepares the management level student to serve as a member of an incident management team during a civil action or disorder. The course provides instruction on incident management, incorporating preplanning considerations and other responsibilities of management level responders. Students are trained on how to develop a local Incident Action Plan (IAP) for a civil action or disorder and implement response actions from the management level. The course culminates with an application-level tabletop exercise in which students use knowledge and skills developed in the previous sessions to plan for and command resources at the incident site.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -22,4 +22,5 @@
 <h2>Continuing Education Credits</h2>
 <p>The Center for Domestic Preparedness is authorized by IACET to offer 2.4 CEUs for this program.
 Police Officer Standards and Training (POST), if approved by the student’s state: 24</p>
+</div>
 </div>

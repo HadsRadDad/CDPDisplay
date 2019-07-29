@@ -1,14 +1,11 @@
-<!--COURSE TITLE--><h1> Personal Protective Measures for Biological Events (PPMB)</center></h1>
-<!--course media<div class="leftin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht01.jpg"></div>
-<div class="rightin"><img class="outside" src="https://hadsraddad.github.io/CDPDisplay/media/ht02.jpg"></div>
+  <div class="title"><h1> Personal Protective Measures for Biological Events (PPMB) </h1></div>
  <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
-END OF COURSE MEDIA
-<div class="photos"-->
-<!--COURSE INFO-->
+</video> 
+
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Personal Protective Measures for Biological Events (PPMB) is a one-day course focusing on the challenges faced by first responders and clinical health care professionals in pre-hospital and hospital environments as they deal with personal protective equipment (PPE) needs and potential contamination issues while dealing with highly infectious diseases. The course provides students with an overview of PPE, and includes experiential learning activities on donning and doffing PPE Level C and technical decontamination. Additionally, students review the different types of decontamination. Topics covered in the course include hazards specific to infectious disease incidents in a healthcare setting; exposure control plans; best safe work practices and most current guidance from the Centers for Disease Control and Prevention and the World Health Organization; use and limitations of PPE; donning and doffing of appropriate levels of PPE, to include practice with PPE Level C; roles and responsibilities; and technical decontamination processes and procedures.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

@@ -1,5 +1,5 @@
-<h1> Field Force Command and Planning for Executives (FFCE)</center></h1>
-
+<div class="title"><h1> Field Force Command and Planning for Executives (FFCE) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>This course provides executive level managers and leaders with skills that enable them to coordinate and direct responders safely in a field force-type incident. The course provides management-level responders with information regarding disorderly behavior and issues surrounding civil actions. This course develops response managers who understand the appropriate planning actions to respond safely and appropriately to a civil action incident at the management level.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program.</p>
@@ -22,5 +22,5 @@
 </ul>
 <h2>Course Length</h2>
 <p>1.0 days</p>
-
+</div>
 </div>

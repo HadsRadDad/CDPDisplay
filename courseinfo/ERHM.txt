@@ -1,11 +1,10 @@
-<!--COURSE TITLE--><h1> Hazardous Materials Technician (HMT)</center></h1>
+  <div class="title"><h1> Hazardous Materials Technician (HMT) </h1></div>
 
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/erhm03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 
-<!--COURSE INFO-->
-<div class="photos">
+ <div class="infobox">
 <h2>Overview</h2>
 <p>ERHM a five-day course, provides training based on Occupational Safety and Health Administration standards for HAZMAT training. This 40-hour course provides participants with HAZMAT-specific response knowledge and skills, enabling them to respond safely and effectively to a suspected incident at a hazardous materials technician level. Participants receive hands-on training in donning personal protective equipment (PPE) Levels A and B, containing leaks and drum over packing, containing leaks in pressurized containers, and performing technical and mass decontamination. The ERHM course culminates with performance of these offensive-level tasks in an activity in which the participants apply the knowledge and skills learned in a simulated HAZMAT environment. ERHM graduates have the opportunity to take the National Board on Fire Service Professional Qualifications (Pro Board) and the International Fire Service Accreditation Congress (IFSAC) exam for HAZMAT Technician certification through the Alabama Fire College (AFC).</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>

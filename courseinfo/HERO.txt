@@ -1,5 +1,5 @@
-<h1> Healthcare Emergency Response Operations for CBRNE Incidents (HERO)</center></h1>
-
+<div class="title"><h1> Healthcare Emergency Response Operations for CBRNE Incidents (HERO) </h1></div>
+ <div class="infobox">
 <h2>Overview</h2>
 <p>Students are provided knowledge and skills for providing care to CBRNE mass casualty victims; knowledge and practical experience in the safe donning, operating in, and doffing of PPE; basic knowledge of the procedures for decontaminating CBRNE victims and responders; and practical experience in the execution of tagging, triaging and treatment protocols for mass casualty victims of a CBRNE incident.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
@@ -20,3 +20,5 @@
 </ul>
 <h2>Course Length</h2>
 <p>1.0 days</p>
+</div>
+</div>

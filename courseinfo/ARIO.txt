@@ -1,5 +1,5 @@
-<h1> Advanced Radiological Incident Operations (ARIO)</center></h1>
-
+<div class="title"><h1> Advanced Radiological Incident Operations (ARIO) </h1></div>
+<div class="infobox">
 <h2>Overview</h2>
 <p>The Advanced Radiological Incident Operations course is a five-day course that provides participants with the advanced skills necessary to safely respond to and manage incidents involving radiological hazards. Participants apply these skills in tabletop exercises based on realistic radiological incident scenarios, set within the Incident Command System structure.</p>
 <p>As this course is being taught, the Radiological Emergency Response Operations (RERO) course will also be in session with both courses coming together in an Integrated Capstone Event. The ARIO course will focus on Emergency Operations Center responsibilities, coordination of the field monitoring teams, data collection, and developing recommendations for protective actions whereas the RERO course will focus on first responder hands-on equipment skills, and responsibilities as members of a field monitoring team during radiological Plume and Ingestion Pathway incidents.</p>
@@ -32,4 +32,5 @@
 	<li>The Center for Domestic Preparedness is authorized by IACET to offer 4.0 CEUs for this program.</li>
 	<li>Police Officer Standards and Training (POST), if approved by the student’s state: 40</li>
 </ul>
+</div>
 </div>

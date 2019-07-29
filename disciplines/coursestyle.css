@@ -61,11 +61,6 @@ img.fema {
 	height: 7vh;
 }
 
-h1 {
-	position: relative;
-	top: -3vh;
-}
-
 div.left{
     padding: 3px;
     overflow-y: scroll;
@@ -92,6 +87,7 @@ div.right{
     flex-basis: 70%;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
     
@@ -135,7 +131,7 @@ img.outside {
 }
 
 
-div.middlein {
+div.mediabox {
     flex-basis: 45%;
     border: 3px solid black;
 	cursor: none;
