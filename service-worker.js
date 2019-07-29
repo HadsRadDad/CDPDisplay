@@ -1,4 +1,4 @@
-const cacheName = 'ipad.v0.8.3';
+const cacheName = 'ipad.v0.8.4';
 
 const cacheAssets = [
   'index.html',
@@ -93,7 +93,28 @@ const cacheAssets = [
   './courseinfo/SAT.txt',
   './courseinfo/SNS.txt',
   './courseinfo/TERT.txt',
-  './courseinfo/VBIED.txt'
+  './courseinfo/VBIED.txt',
+  './media/bgcon.jpg',
+  './media/Corps.mp4',
+  './media/corps1.jpg',
+  './media/corps2.jpg',
+  './media/emo.mp4',
+  './media/erhm03.jpg',
+  './media/fema.png',
+  './media/ffe03.jpg',
+  './media/ffo03.jpg',
+  './media/gdg.jpg',
+  './media/harm.mp4',
+  './media/hazmatops03.jpg',
+  './media/hcl.mp4',
+  './media/hec03.jpg',
+  './media/hert.mp4',
+  './media/homebutton.png',
+  './media/ht.mp4',
+  './media/ic03.jpg',
+  './media/itc03.jpg',
+  './media/rp03.jpg',
+  './media/tert.mp4'
 ];
 
 // Call install event
