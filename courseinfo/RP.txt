@@ -1,8 +1,7 @@
-  <div class="title><h1> Respiratory Protection: Program Development and Administration (RP) </h1>
-<!--course media-->
+  <div class="title><h1> Respiratory Protection: Program Development and Administration (RP) </h1></div>
  <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/rp03.jpg"></div>
-<!--END OF COURSE MEDIA-->
-<div class="photos">
+
+
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Respiratory Protection: Program Development and Administration three-day course provides essential information and the skills required to develop, implement, administer, and properly sustain a respiratory protection program that fully complies with the laws and regulations regarding emergency response actions.</p>

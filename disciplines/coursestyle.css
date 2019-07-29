@@ -131,13 +131,16 @@ div.content {
 
 .title {
     text-align: center;
-    max-height: 10vh;
+    max-height: 15vh;
 }
 
 div.mediabox {
     flex-basis: 70%;
+    max-height: 40vh;
+    width: 100%;
     border: 3px solid black;
-	cursor: none;
+    cursor: none;
+    background-color: black;
 }
 
 img.middle {
