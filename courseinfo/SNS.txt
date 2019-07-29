@@ -1,4 +1,4 @@
-<h1><center>Division of Strategic National Stockpile (SNS)</center></h1>
+<h1> Division of Strategic National Stockpile (SNS)</center></h1>
 
 <h2>Overview</h2>
 <p>The Strategic National Stockpile Preparedness Course is a five-day course designed to give federal, state, and local officials information on how to best plan and prepare for a public health emergency and how to use and manage the Strategic National Stockpile in response to a terrorist attack, natural disaster, or technological accident.</p>

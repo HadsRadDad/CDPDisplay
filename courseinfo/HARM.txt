@@ -1,6 +1,6 @@
-<!--COURSE TITLE--><h1><center>Hazard Assessment and Response Management for CBRNE Incidents (HARM)</center></h1>
+<!--COURSE TITLE--><h1> Hazard Assessment and Response Management for CBRNE Incidents (HARM)</center></h1>
 <!--course media-->
-<center><video class="vid" controls autoplay>
+ <video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/harm.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/harm.mp4" type="video/ogg">
   Your browser does not support HTML5 video.

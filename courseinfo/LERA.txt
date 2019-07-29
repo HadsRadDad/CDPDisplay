@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Law Enforcement Response Actions for CBRNE Incidents (LERA)</center></h1>
+<!--COURSE TITLE--><h1> Law Enforcement Response Actions for CBRNE Incidents (LERA)</center></h1>
 
 <h2>Overview</h2>
 <p>Law Enforcement Response Actions for CBRNE Incidents (LERA) is a one-day training course during which law enforcement and security personnel apply the knowledge and skills they learned during Law Enforcement Protective Measures for CBRNE Incidents through practice and realistic incident scenarios. Students receive advanced practical application in the identification of CBRNE hazards, personal protective equipment, safety considerations, and hazards and evidence preservation.</p>

@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Barrier Precautions and Controls for Highly Infectious Disease (HID)</center></h1>
+<!--COURSE TITLE--><h1> Barrier Precautions and Controls for Highly Infectious Disease (HID)</center></h1>
 
 <!--COURSE INFO-->
 <h2>Overview</h2>

@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Field Force Operations (FFO)</center></h1>
+<!--COURSE TITLE--><h1> Field Force Operations (FFO)</center></h1>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ffo03.jpg"></div>
 <!--END OF COURSE MEDIA-->

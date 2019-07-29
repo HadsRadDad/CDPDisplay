@@ -1,6 +1,6 @@
-<!--COURSE TITLE--><h1><center>Emergency Medical Operations for CBRNE Incidents (EMO)</center></h1>
+<!--COURSE TITLE--><h1> Emergency Medical Operations for CBRNE Incidents (EMO)</center></h1>
 <!--course media-->
-<center><video class="vid" controls autoplay>
+ <video class="vid" controls autoplay>
   <source src="../media/emo.mp4" type="video/mp4">
   <source src="../media/emo.mp4" type="video/ogg">
   Your browser does not support HTML5 video.

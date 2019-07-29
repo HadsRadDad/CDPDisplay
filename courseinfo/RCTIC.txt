@@ -1,4 +1,4 @@
-<h1><center>Radiological Concepts, Tactics and Integration (RCTIC)</center></h1>
+<h1> Radiological Concepts, Tactics and Integration (RCTIC)</center></h1>
 
 <h2>Overview</h2>
 <p>Participants will use a variety of radiation detection assets and equipment required to conduct search operations either for a radiation/nuclear threat or to secure a facility in preparation for a public event. Participants will apply tactics and techniques required to effectively utilize equipment necessary to detect and identify a radiological source.</p>

@@ -1,4 +1,4 @@
-<h1><center>Bombing Prevention Awareness Course (BPAC)</center></h1>
+<h1> Bombing Prevention Awareness Course (BPAC)</center></h1>
 
 <h2>Overview</h2>
 <p>The Bombing Prevention Awareness Course (BPAC) provides emergency responders with an overview of bombing-prevention measures. During the one-day course, responders learn to understand basic concepts of general bombing prevention knowledge.</p>

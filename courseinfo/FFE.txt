@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Field Force Extrication Tactics (FFE)</center></h1>
+<!--COURSE TITLE--><h1> Field Force Extrication Tactics (FFE)</center></h1>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ffe03.jpg"></div>
 <!--END OF COURSE MEDIA-->

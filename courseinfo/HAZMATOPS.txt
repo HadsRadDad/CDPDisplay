@@ -1,4 +1,4 @@
-<h1><center>Hazardous Materials Operations (HAZMAT Ops)</center></h1> 
+<h1> Hazardous Materials Operations (HAZMAT Ops)</center></h1> 
 <!--Media-->
 <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops03.jpg"></div>
 <!--end media-->

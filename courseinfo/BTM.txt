@@ -1,4 +1,4 @@
-<h1><center>Bomb Threat Management Planning (BTM)</center></h1>
+<h1> Bomb Threat Management Planning (BTM)</center></h1>
 
 <h2>Overview</h2>
 <p>The Bomb Threat Management (BTM) Planning course introduces students to the Department of Homeland Security (DHS) risk-management process and the development of the BTM plan. The one-day course includes activities that allow responders to apply specific portions of the risk-management process and their newly acquired knowledge about bomb-threat management procedures to critique mock BTM plans. The course culminates in an experiential learning activity in which learners revise a BTM plan using the findings of the individual module learning activities and the knowledge gained throughout the course.</p>

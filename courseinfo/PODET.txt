@@ -1,4 +1,4 @@
-<h1><center>POD Essentials Train-the-Trainer (PODET)</center></h1>
+<h1> POD Essentials Train-the-Trainer (PODET)</center></h1>
 <h2>Overview</h2>
 <p>POD Essentials Train-the-Trainer is a three-day course that prepares state, local, tribal, and territorial public health instructors to deliver the POD Essentials course to local audiences. POD Essentials is an engaging, introductory-level course designed by the Centers for Disease Control and Prevention (CDC) for staff and volunteers new to working in a point of dispensing (POD) site during a public health emergency.</p>
 <p>This hands-on course walks trainers through the process of preparing and presenting the customizable POD Essentials course that can incorporate jurisdiction-specific plans, policies and procedures. This train-the-trainer course includes facilitation tips for adding dynamic and engaging features into the POD Essentials course. Participants will work together to complete a culminating presentation activity to facilitate a customized portion of the POD Essentials course. By the end of the course, participants will be able to</p>

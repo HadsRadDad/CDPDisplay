@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Managing Public Information for All Hazards Incidents (MPI)</center></h1>
+<!--COURSE TITLE--><h1> Managing Public Information for All Hazards Incidents (MPI)</center></h1>
 
 <!--COURSE INFO-->
 <h2>Overview</h2>

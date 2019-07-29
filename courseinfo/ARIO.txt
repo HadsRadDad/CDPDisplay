@@ -1,4 +1,4 @@
-<h1><center>Advanced Radiological Incident Operations (ARIO)</center></h1>
+<h1> Advanced Radiological Incident Operations (ARIO)</center></h1>
 
 <h2>Overview</h2>
 <p>The Advanced Radiological Incident Operations course is a five-day course that provides participants with the advanced skills necessary to safely respond to and manage incidents involving radiological hazards. Participants apply these skills in tabletop exercises based on realistic radiological incident scenarios, set within the Incident Command System structure.</p>

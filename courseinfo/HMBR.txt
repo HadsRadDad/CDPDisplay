@@ -1,9 +1,9 @@
-<h1><center>Hazardous Materials Basic Responder for Mass Casualty Incidents (HMBR)</center></h1>
-<center><video class="vid" controls autoplay>
+<h1> Hazardous Materials Basic Responder for Mass Casualty Incidents (HMBR)</center></h1>
+<video class="vid" controls autoplay>
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/mp4">
   <source src="https://hadsraddad.github.io/CDPDisplay/media/tert.mp4" type="video/ogg">
   Your browser does not support HTML5 video.
-</video></center>
+</video>
 <div class="photos">
 <h2>Overview</h2>
 <p>This course provides instruction and practical experience in the skills required to safely support mass casualty incident operations during a hazardous materials mass casualty incident. Course content includes knowledge and practical experience in the donning, operating in, and doffing of personal protective equipment; the conduct of emergency and tiered patient decontamination; the performance of patient triage and lifesaving interventions; and techniques for patient movement and basic rescue. The course culminates in the conduct of a simulated mass casualty incident operation requiring the performance of all learned tasks in a toxic agent environment.</p>

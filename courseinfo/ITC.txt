@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Instructor Training Certification (ITC)</center></h1>
+<!--COURSE TITLE--><h1> Instructor Training Certification (ITC)</center></h1>
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/itc03.jpg"></div>
 <!--END OF COURSE MEDIA-->

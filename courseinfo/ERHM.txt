@@ -1,4 +1,4 @@
-<!--COURSE TITLE--><h1><center>Hazardous Materials Technician (HMT)</center></h1>
+<!--COURSE TITLE--><h1> Hazardous Materials Technician (HMT)</center></h1>
 
 <!--course media-->
     <div class="middlein"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/erhm03.jpg"></div>

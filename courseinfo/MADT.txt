@@ -1,4 +1,4 @@
-<h1><center>Mass Antibiotic Dispensing Train-the-Trainer (MADT)</center></h1>
+<h1> Mass Antibiotic Dispensing Train-the-Trainer (MADT)</center></h1>
 <h2>Overview</h2>
 <p>The TechThe Mass Antibiotic Dispensing, Train-the-Trainer (MADT) is a three-day course designed to prepare state and local public health staff to implement mass dispensing training for their agencies or jurisdictions. The MADT course consists of presentations, group activities, discussions, and supporting materials that will guide the participants through the planning and execution of a course delivery.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
