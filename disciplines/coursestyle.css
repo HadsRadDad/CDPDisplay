@@ -104,14 +104,15 @@ div.content {
     background-color: #2B3856;
     color: white;
     text-align: center;
-    font-size: 2vw;
+    font-size: 1.25vh;
     margin: 15px;
     text-shadow: 1px 1px 0px #1569C7;
     text-decoration: none;
     box-shadow: 5px 5px 0px black;
     font-weight: normal;
     font-family: Sans-Serif;
-    height: 8vh;
+    height: 10vh;
+    padding: 15px;
 	cursor: none;
 	border-style: solid;
 	border-color: red;
@@ -137,8 +138,13 @@ div.mediabox {
 	cursor: none;
 }
 
+img.middle {
+    height: 100%;
+    width: 100%;
+}
+
 .vid {
-    flex-basis: 70%;
+    flex-basis: 50%;
     border: 3px solid black;
 }
 
