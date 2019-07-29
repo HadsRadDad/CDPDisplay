@@ -1,6 +1,5 @@
   <div class="title"><h1> Radiological Accident Assessment (RAAC) </h1></div>
 
-END OF COURSE MEDIA
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Radiological Accident Assessment Concepts (RAAC) course is a five-day course offering lectures, individual and team exercises. This course addresses the consequences of incidents involving radioactive materials, with emphasis placed on incidents at commercial nuclear power plants. The course focuses on the technical concepts involved in formulating protective action recommendations, including atmospheric dispersion models, dose projection methods, use of protective action guides, analysis of field team data, and calculation of derived intervention levels. Participants engage in problem-solving sessions and a tabletop exercise. The participant is required to pass a final exam.</p>

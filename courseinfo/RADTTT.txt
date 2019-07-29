@@ -1,6 +1,5 @@
   <div class="title"><h1> Radiological Series, Train the Trainer (RAD TtT) </h1></div>
 
-END OF COURSE MEDIA
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Radiological Series, Train-the-Trainer (RAD TtT) is a four-day course designed for individuals the state has identified as part of a cadre of instructors and trainers responsible for providing radiological training in their jurisdictions. The course is designed to strengthen the capacity of trainers by applying principles of adult learning and training and facilitation skills in practice training sessions. The course provides students with the knowledge, skills, and ability to conduct the training for which they are responsible.</p>

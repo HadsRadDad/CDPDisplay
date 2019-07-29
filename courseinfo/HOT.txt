@@ -1,7 +1,5 @@
   <div class="title"><h1> Hands-On Training for CBRNE Incidents (HOT) </h1></div>
   
-
-END OF COURSE MEDIA
  <div class="infobox">
 <h2>Overview</h2>
 <p>Hands-On Training for CBRNE Incidents is a two-day course in which participants develop and apply chemical, biological, radiological, nuclear or explosive (CBRNE) incident-response practices in a realistic environment. The HOT course provides participants with knowledge and skills to perform at an operations level. The HOT course provides responders with the unique opportunity to practice their knowledge and skills in a practical exercise in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility.</p>

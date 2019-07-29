@@ -1,10 +1,4 @@
-  <div class="title><h1> Radiological Emergency Response Operations (RERO) </h1>
- <div class="mediabox"><video class="vid" controls autoplay>
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video> 
-</div>
+  <div class="title><h1> Radiological Emergency Response Operations (RERO) </h1></div>
  <div class="infobox">
 <h2>Overview</h2>
 <p>Radiological Emergency Response Operations is a five-day course includes lectures, hands-on training, and team exercises. Students learn the concepts, equipment, and procedures related to radiological incident response, including a commercial nuclear power facility. During the course, the responders work in teams to perform radiological emergency response operations in a realistic exercise environment. The course culminates with an exercise that implements the Incident Command system in response to an incident that requires team coordination. The course adheres to Federal Emergency Management Agency Radiological Emergency Preparedness Program, the Environmental Protection Agency Manual or Protective Action Guides and Protective Actions for Nuclear Incidents and Federal regulations.</p>

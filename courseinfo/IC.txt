@@ -1,11 +1,8 @@
 <div class="title"><h1> Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC) </h1></div>
 
-<!--Media-->
- <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ic03.jpg"></div>
-<!--end media-->
-
-<!--course stuff-->
-<div class="photos">
+ <div class="mediabox">
+ <img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/ic03.jpg">
+ </div>
 <h2>Overview</h2>
 <p>Incident Command: Capabilities, Planning, and Response Actions for All Hazards (IC) is a three-day course that provides management-level responders with knowledge of how decisions made by responders from various disciplines can impact the handling of a chemical, biological, radiological, nuclear, or explosive (CBRNE) incident. The importance of planning and training for a CBRNE incident response is stressed to participants, thus the course incorporates preparedness planning considerations and incident management concepts to train participants to serve as members of an incident management team. Participants are immersed in a curriculum that will promote development of their abilities to evaluate the threat, identify and prioritize probable targets, measure required capabilities, and discuss the Incident Response Plan (IRP) and Incident Action Plan (IAP) processes. The course culminates with a real-time, scenario-driven tabletop exercise that requires participants to apply concepts learned during the course to plan for and manage emergency response resources.</p>
 <p>Below are some, but not all, of the critical skill sets learned during this training program:</p>
