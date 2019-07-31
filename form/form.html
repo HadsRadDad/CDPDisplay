@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta id="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./bootstrap-3.4.1-dist/css/bootstrap.min.css" >
+    <style>
+    div.row-md-12 {
+        display: flex;
+        justify-content: center;
+    }
+    </style>
+    <title>my form</title>
+</head>
+<body>
+  <form>
+    <div class="row-md-12"><h1>FORM</h1></div>
+          <div class="col-md-4">
+        
+      </div>
+ 
+            <div class="col-md-4">
+
+
+      Fist Name: <input type="text" id="firstid">
+      <br>
+      <br>
+      Last Name: <input type="text" id="lastid">
+      <br>
+      <br>
+      Email: <input type="email" id="email">
+      <br>
+      <br>
+      State: <select id="state" required>
+        <option value="AL">Alabama</option>
+        <option value="AK">Alaska</option>
+        <option value="AZ">Arizona</option>
+        <option value="AR">Arkansas</option>
+        <option value="CA">California</option>
+        <option value="CO">Colorado</option>
+        <option value="CT">Connecticut</option>
+        <option value="DE">Delaware</option>
+        <option value="DC">District Of Columbia</option>
+        <option value="FL">Florida</option>
+        <option value="GA">Georgia</option>
+        <option value="HI">Hawaii</option>
+        <option value="ID">Idaho</option>
+        <option value="IL">Illinois</option>
+        <option value="IN">Indiana</option>
+        <option value="IA">Iowa</option>
+        <option value="KS">Kansas</option>
+        <option value="KY">Kentucky</option>
+        <option value="LA">Louisiana</option>
+        <option value="ME">Maine</option>
+        <option value="MD">Maryland</option>
+        <option value="MA">Massachusetts</option>
+        <option value="MI">Michigan</option>
+        <option value="MN">Minnesota</option>
+        <option value="MS">Mississippi</option>
+        <option value="MO">Missouri</option>
+        <option value="MT">Montana</option>
+        <option value="NE">Nebraska</option>
+        <option value="NV">Nevada</option>
+        <option value="NH">New Hampshire</option>
+        <option value="NJ">New Jersey</option>
+        <option value="NM">New Mexico</option>
+        <option value="NY">New York</option>
+        <option value="NC">North Carolina</option>
+        <option value="ND">North Dakota</option>
+        <option value="OH">Ohio</option>
+        <option value="OK">Oklahoma</option>
+        <option value="OR">Oregon</option>
+        <option value="PA">Pennsylvania</option>
+        <option value="RI">Rhode Island</option>
+        <option value="SC">South Carolina</option>
+        <option value="SD">South Dakota</option>
+        <option value="TN">Tennessee</option>
+        <option value="TX">Texas</option>
+        <option value="UT">Utah</option>
+        <option value="VT">Vermont</option>
+        <option value="VA">Virginia</option>
+        <option value="WA">Washington</option>
+        <option value="WV">West Virginia</option>
+        <option value="WI">Wisconsin</option>
+        <option value="WY">Wyoming</option>
+        <option value="AS">American Samoa</option>
+        <option value="GU">Guam</option>
+        <option value="MP">Northern Mariana Islands</option>
+        <option value="PR">Puerto Rico</option>
+        <option value="UM">United States Minor Outlying Islands</option>
+        <option value="VI">Virgin Islands</option>
+    </select>
+    <br>
+    <input type="checkbox" value="x" id="law"> Law Enforcement<br>
+    <input type="checkbox" value="x" id="fire"> Fire Service<br>
+    <input type="checkbox" value="x" id="hc"> Healthcare<br>
+    <input type="checkbox" value="x" id="ems"> Emergency Medical Services<br>
+    <input type="checkbox" value="x" id="em"> Emergency Management<br>
+    <input type="checkbox" value="x" id="ph"> Public Health<br>
+    <input type="checkbox" value="x" id="ga"> Governmental Administrative<br>
+    <input type="checkbox" value="x" id="hm"> Hazardous Materials<br>
+    <input type="checkbox" value="x" id="psc"> Public Safety Communications<br>
+
+    <input type="checkbox" value="x" id="ss"> Security and Safety<br>
+    <input type="checkbox" value="x" id="edu"> Education<br>
+    <input type="checkbox" value="x" id="it"> Information Technology<br>
+    <input type="checkbox" value="x" id="ccv"> Citizen/Community Volunteer<br>
+    <input type="checkbox" value="x" id="trans"> Transportation<br>
+    <input type="checkbox" value="x" id="sr"> Search and Rescue<br>
+    <input type="checkbox" value="x" id="ag"> Agricultural Safety<br>
+    <input type="checkbox" value="x" id="pw"> Public Works<br>
+    <input type="checkbox" value="x" id="other"> Other<br>
+
+      <button id="inputToDb">Submit</button>
+      <button id="viewData">View</button>
+      <button id="clearData">Clear</button>
+  </form> 
+</div>
+
+        <div class="col-md-4">
+    </div>
+  <script>
+    let db = null
+    const inputToDb = document.getElementById('inputToDb');
+    inputToDb.addEventListener('click', addData)
+    const viewData = document.getElementById('viewData');
+    viewData.addEventListener('click', viewInput)
+    const clearData = document.getElementById('clearData')
+    clearData.addEventListener('click', dataClear)
+
+        function addData() {
+            const fn = document.getElementById('firstid').value
+            const ln = document.getElementById('lastid').value
+            const emal = document.getElementById('email').value
+            const st = document.getElementById('state').value
+            const la = document.getElementById('law').value
+            const fi = document.getElementById('fire').value
+            const hc = document.getElementById('hc').value
+            const emsvar = document.getElementById('ems').value
+            const emvar = document.getElementById('em').value
+            const phealth = document.getElementById('ph').value
+            const govAdmin = document.getElementById('ga').value
+            const hazmat = document.getElementById('hm').value
+            const pubSaf = document.getElementById('psc').value
+            const secSaf = document.getElementById('ss').value
+            const educat = document.getElementById('edu').value
+            const itvar = document.getElementById('it').value
+            const cvol = document.getElementById('ccv').value
+            const trans = document.getElementById('trans').value
+            const searres = document.getElementById('sr').value
+            const agr = document.getElementById('ag').value
+            const pubwork = document.getElementById('pw').value
+            const oth = document.getElementById('other').value
+            
+            const contact = {
+                contact: fn + " " + ln ,
+                fistid: fn,
+                lastid: ln,
+                email: emal,
+                state: st,
+                law: la,
+                fire: fi,
+                healthcare: hc,
+                ems: emsvar,
+                em: emvar,
+                ph: phealth,
+                ga: govAdmin,
+                hm: hazmat,
+                psc: pubSaf,
+                ss: secSaf,
+                edu: educat,
+                it: itvar,
+                ccv: cvol,
+                transp: trans,
+                sr: searres,
+                ag: agr,
+                pw: pubwork,
+                other: oth
+            };
+
+            const tx = db.transaction("contacts", "readwrite")
+            console.log(tx)
+            tx.onerror = e => alert( ` Error! ${e.target.error}  `)
+            const pContacts = tx.objectStore("contacts")
+            pContacts.add(contact)
+      }
+
+        function viewInput() {
+            const tx = db.transaction("contacts","readonly")
+            const pcontacts = tx.objectStore("contacts")
+            const request = pcontacts.openCursor()
+            request.onsuccess = e => {
+                const cursor = e.target.result
+                if (cursor) {
+                    alert(`Contact: ${cursor.key}`)
+                    cursor.continue()
+                }
+            }
+        }
+
+        function dataClear() {
+            const tx= db.transaction("contacts", "readwrite");
+            const objStore = tx.objectStore('contacts')
+            objStore.clear()
+        }
+
+     const request = indexedDB.open('contactDB', 1)
+     
+     request.onupgradeneeded = e => {
+        db = e.target.result
+        const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
+    }
+            
+    request.onsuccess = e => {
+        db = e.target.result
+    }
+                //on error
+    request.onerror = e => {
+        alert(`error: ${e.target.error} was found `)
+                     
+    }
+
+  </script>
+
+</body>
+</html>
