@@ -67,21 +67,19 @@ body{
     border-radius: 1.5vh;
     box-shadow: 1vh 2.5vw 5px -1px black;
     margin: 1.5vw;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     color: white;
     flex-wrap: wrap;
     text-align: center;
     text-shadow: 2px 3px black;
-    font-size: 2rem;
-    padding: .5vh;
+    font-size: calc(5px + 1vw);
 }
 
 #contactbuttondiv {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 5vh;
 }
 
 .row{
@@ -91,7 +89,7 @@ body{
 }
 
 #spacer{
-    height: 10vw;
+    height: 5vw;
 }
 
 #contactbutton {
@@ -122,19 +120,21 @@ body{
 
 #emblem {
     font-family: Discipline;
-    font-size: 6vw;
+    font-size: calc(20px + 2vw);
     flex-basis: 100%;
+    align-self: flex-end;
 }    
 
 #emblemtext{
     font-family: sans-serif;
-    font-size: 5rem;
+    font-size: calc(20px + 1.5vw);
     flex-basis: 100%;
+    align-self: flex-end;
 }   
 
 #textunder {
     font-family: sans-serif;
-    font-size: 1.33rem;
+    font-size: calc(2px + 1.5vw);
 }
 
 #landcontactbutton{
@@ -146,7 +146,18 @@ a {
     text-decoration: none;
 }
 
-/* @media (orientation: landscape) {
+ @media (orientation: landscape) {
+
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: black;
+}
+
+#main{
+    max-width: 1920px;
+}
 
 
 #videobox{
@@ -155,7 +166,6 @@ a {
     flex-basis: 30%;
     align-items: center;
     justify-content: center;
-    order: 1;
 }
 
 #video {
@@ -164,22 +174,22 @@ a {
 }
 
 #buttoncontainer {
-    margin: 5vh 1vw 5vh 1vw;
-    flex-basis: 35%;
+    margin: 0vh 1vw 2vh 1vw;
     justify-content: center;
     align-items: center;
     display: flex;
-    order: 2;
     flex-wrap: wrap;
 }
 
 #squarebutton {
-    height: 7vw;
-    width: 7vw;
+    height: 15vh;
+    width: 15vh;
+    max-width: 135px;
+    max-height: 135px;
     margin: 1vw;
-    font-size: 1.25vw;
     padding: .5vw;
     box-shadow: 1vw 2.5vh 5px -1px black;
+    font-size: calc(5px + 1.25vh);
 }
 
 #contactbuttondiv {
@@ -187,10 +197,12 @@ a {
 }
 
 #contactbutton {
+    height: 15vh;
     max-width: 925px;
+    font-size: calc(10px + 1.25vh);
 }
 
-/*.landcontactbutton {
+.landcontactbutton {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -209,23 +221,30 @@ a {
 
 #emblem {
     font-family: Discipline;
-    font-size: 3vw;
     flex-basis: 100%;
+    font-size: calc(20px + 2vh);
 }
 
 #emblemtext{
     font-family: sans-serif;
-    font-size: 3vw;
+    font-size: calc(10px + 1.5vh);
     flex-basis: 100%;
 }   
+
+#spacer{
+    height: 1vh;
+}
 
 
 #textunder {
     font-family: sans-serif;
-    font-size: 1vw;
+    font-size: calc(1px + 1.25vh);
+
 }
 
 }
+
+/*
 @media (orientation: landscape) and (min-width: 1366px) {
 #videobox{
     margin: 10vh 1vw 2vh 5vw;
