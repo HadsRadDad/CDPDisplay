@@ -1,0 +1,28 @@
+div.row-md-12 {
+    display: flex;
+    justify-content: center;
+}
+
+#formdiv {
+    border-style: solid;
+    padding: 2vw;
+}
+
+input[type=text], [type=email] {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px
+  }
+
+  select {
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+
+

@@ -5,13 +5,8 @@
     <meta id="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css" >
-    <style>
-    div.row-md-12 {
-        display: flex;
-        justify-content: center;
-    }
-    </style>
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="formstyle.css">
     <title>my form</title>
 </head>
 <body>
@@ -21,7 +16,7 @@
         
       </div>
  
-            <div class="col-md-4">
+            <div class="col-md-4" id="formdiv">
 
 
       Fist Name: <input type="text" id="firstid">
@@ -93,6 +88,7 @@
         <option value="VI">Virgin Islands</option>
     </select>
     <br>
+    <div class="checkbox">
     <input type="checkbox" value="x" id="law"> Law Enforcement<br>
     <input type="checkbox" value="x" id="fire"> Fire Service<br>
     <input type="checkbox" value="x" id="hc"> Healthcare<br>
@@ -112,7 +108,7 @@
     <input type="checkbox" value="x" id="ag"> Agricultural Safety<br>
     <input type="checkbox" value="x" id="pw"> Public Works<br>
     <input type="checkbox" value="x" id="other"> Other<br>
-
+</div>
       <button id="inputToDb">Submit</button>
       <button id="viewData">View</button>
       <button id="clearData">Clear</button>
