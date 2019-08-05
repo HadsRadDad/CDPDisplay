@@ -62,8 +62,8 @@ select {
 }
 
 .check {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2.25rem;
+  height: 2.25rem;
   padding: 0;
   margin: 0;
   vertical-align: bottom;
@@ -75,7 +75,7 @@ select {
 
 label {
   display: block;
-  font: 1.75rem;
+  font: 1.5rem;
   padding-left: 15px;
   text-indent: -15px;
 }
