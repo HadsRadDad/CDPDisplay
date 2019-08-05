@@ -4,30 +4,29 @@
     <meta charset="UTF-8">
     <meta id="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" >
     <link rel="stylesheet" href="formstyle.css">
     <title>Contact Form</title>
 </head>
 <body>
+<div class='main'>
   <form>
-    <div class="row-md-12"><h1>FORM</h1></div>
-    <div class="row-md-12">
+    <div class="row-md-12" id="mainformdiv">
           <div class="col-sm-2">
       </div>
  
             <div class="col-sm-8" id="formdiv">
 
-
+    
       Fist Name: <input type="text" id="firstid">
-      <br>
-      <br>
+  
+
       Last Name: <input type="text" id="lastid">
-      <br>
-      <br>
+
+    
       Email: <input type="email" id="email">
-      <br>
-      <br>
+
+ 
       State: <select id="state" required>
         <option value="AL">Alabama</option>
         <option value="AK">Alaska</option>
@@ -85,39 +84,39 @@
         <option value="MP">Northern Mariana Islands</option>
         <option value="PR">Puerto Rico</option>
         <option value="UM">United States Minor Outlying Islands</option>
-        <option value="VI">Virgin Islands</option>
-    </select>
-    <br>
-    <div class="checkbox">
-    <label><input type="checkbox" id="law"> Law Enforcement</label><br>
-    <label><input type="checkbox"  id="fire"> Fire Service</label><br>
-    <label><input type="checkbox"  id="hc"> Healthcare</label><br>
-    <label><input type="checkbox"  id="ems"> Emergency Medical Services</label><br>
-    <label><input type="checkbox"  id="em"> Emergency Management</label><br>
-    <label><input type="checkbox"  id="ph"> Public Health</label><br>
-    <label><input type="checkbox"  id="ga"> Governmental Administrative</label><br>
-    <label><input type="checkbox"  id="hm"> Hazardous Materials</label><br>
-    <label><input type="checkbox"  id="psc"> Public Safety Communications</label><br>
+     </select>
 
-    <label><input type="checkbox"  id="ss"> Security and Safety</label><br>
-    <label><input type="checkbox"  id="edu"> Education</label><br>
-    <label><input type="checkbox"  id="it"> Information Technology</label><br>
-    <label><input type="checkbox"  id="ccv"> Citizen/Community Volunteer</label><br>
-    <label><input type="checkbox"  id="trans"> Transportation</label><br>
-    <label><input type="checkbox"  id="sr"> Search and Rescue</label><br>
-    <label><input type="checkbox"  id="ag"> Agricultural Safety</label><br>
-    <label><input type="checkbox"  id="pw"> Public Works</label><br>
-    <label><input type="checkbox"  id="other"> Other</label><br>
-</div>
-      <button id="inputToDb">Submit</button>
-      <button id="viewData">View</button>
-      <button id="clearData">Clear</button>
+    <div class="checkboxes">
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="law"> Law Enforcement</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="fire"> Fire Service</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="hc"> Healthcare</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ems"> Emergency Medical Services</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="em"> Emergency Management</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ph"> Public Health</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ga"> Governmental Administrative</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="hm"> Hazardous Materials</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="psc"> Public Safety Communications</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ss"> Security and Safety</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="edu"> Education</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="it"> Information Technology</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ccv"> Citizen/Community Volunteer</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="trans"> Transportation</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="sr"> Search and Rescue</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="ag"> Agricultural Safety</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="pw"> Public Works</label></div>
+    <div class="checkdiv"><label><input type="checkbox" class="check"  id="other"> Other</label></div>
+  <div class="buttondiv">
+      <button id="inputToDb" class="btn btn-primary">Submit</button>
+      <!--<button id="viewData">View</button>
+      <button id="clearData">Clear</button>-->
+    </div>
   </form> 
 </div>
 
-        <div class="col-sm-2">
-    </div>
+
 </div>
+<div class="col-sm-2">
+    </div>
   <script>
     let db = null
     const inputToDb = document.getElementById('inputToDb');

@@ -1,3 +1,17 @@
+body{
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.main {
+  background-image: url("../ipadbg.png"), linear-gradient(to right, #d4d6f1 59%, #666699 100%);
+  background-blend-mode: hard-light;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+}
+
 div.row-md-12 {
     display: flex;
     justify-content: center;
@@ -6,8 +20,10 @@ div.row-md-12 {
 #formdiv {
     border-style: solid;
     border-radius: 20px;
-    padding: 2vw;
-    margin: 25px;
+    padding-top: 5vw;
+    margin: 7vh 25px 25px 25px;
+    background-color: white;
+    height: 65vh;
 }
 
 input[type=text], [type=email] {
@@ -16,15 +32,57 @@ input[type=text], [type=email] {
     padding: 10px 10px;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 16px
+    font-size: 1.5rem;
+    color: black;
+    margin-bottom: 20px;
   }
 
-  select {
+select {
     width: 100%;
     padding: 10px 10px;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 16px;
-  }
+    font-size: 1.5rem;
+}
 
+.checkboxes {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 20px;
+}
 
+.checkdiv{
+  width: 24vw;
+  display: flex;
+  justify-content: end;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 3rem;
+}
+
+.check {
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0;
+  margin: 0;
+  vertical-align: bottom;
+  position: relative;
+  top: 2px;
+  right: 1rem;
+  overflow: hidden;
+}
+
+label {
+  display: block;
+  font: 1.75rem;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+
+.buttondiv {
+  margin: 15px;
+  position: relative;
+  left: 15vw;
+  top: 5vh;
+}
