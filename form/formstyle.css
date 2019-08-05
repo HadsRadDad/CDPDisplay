@@ -5,7 +5,9 @@ div.row-md-12 {
 
 #formdiv {
     border-style: solid;
+    border-radius: 20px;
     padding: 2vw;
+    margin: 25px;
 }
 
 input[type=text], [type=email] {

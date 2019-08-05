@@ -7,16 +7,16 @@
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css" >
     <link rel="stylesheet" href="formstyle.css">
-    <title>my form</title>
+    <title>Contact Form</title>
 </head>
 <body>
   <form>
     <div class="row-md-12"><h1>FORM</h1></div>
-          <div class="col-md-4">
-        
+    <div class="row-md-12">
+          <div class="col-sm-2">
       </div>
  
-            <div class="col-md-4" id="formdiv">
+            <div class="col-sm-8" id="formdiv">
 
 
       Fist Name: <input type="text" id="firstid">
@@ -89,25 +89,25 @@
     </select>
     <br>
     <div class="checkbox">
-    <input type="checkbox" value="x" id="law"> Law Enforcement<br>
-    <input type="checkbox" value="x" id="fire"> Fire Service<br>
-    <input type="checkbox" value="x" id="hc"> Healthcare<br>
-    <input type="checkbox" value="x" id="ems"> Emergency Medical Services<br>
-    <input type="checkbox" value="x" id="em"> Emergency Management<br>
-    <input type="checkbox" value="x" id="ph"> Public Health<br>
-    <input type="checkbox" value="x" id="ga"> Governmental Administrative<br>
-    <input type="checkbox" value="x" id="hm"> Hazardous Materials<br>
-    <input type="checkbox" value="x" id="psc"> Public Safety Communications<br>
+    <label><input type="checkbox" id="law"> Law Enforcement</label><br>
+    <label><input type="checkbox"  id="fire"> Fire Service</label><br>
+    <label><input type="checkbox"  id="hc"> Healthcare</label><br>
+    <label><input type="checkbox"  id="ems"> Emergency Medical Services</label><br>
+    <label><input type="checkbox"  id="em"> Emergency Management</label><br>
+    <label><input type="checkbox"  id="ph"> Public Health</label><br>
+    <label><input type="checkbox"  id="ga"> Governmental Administrative</label><br>
+    <label><input type="checkbox"  id="hm"> Hazardous Materials</label><br>
+    <label><input type="checkbox"  id="psc"> Public Safety Communications</label><br>
 
-    <input type="checkbox" value="x" id="ss"> Security and Safety<br>
-    <input type="checkbox" value="x" id="edu"> Education<br>
-    <input type="checkbox" value="x" id="it"> Information Technology<br>
-    <input type="checkbox" value="x" id="ccv"> Citizen/Community Volunteer<br>
-    <input type="checkbox" value="x" id="trans"> Transportation<br>
-    <input type="checkbox" value="x" id="sr"> Search and Rescue<br>
-    <input type="checkbox" value="x" id="ag"> Agricultural Safety<br>
-    <input type="checkbox" value="x" id="pw"> Public Works<br>
-    <input type="checkbox" value="x" id="other"> Other<br>
+    <label><input type="checkbox"  id="ss"> Security and Safety</label><br>
+    <label><input type="checkbox"  id="edu"> Education</label><br>
+    <label><input type="checkbox"  id="it"> Information Technology</label><br>
+    <label><input type="checkbox"  id="ccv"> Citizen/Community Volunteer</label><br>
+    <label><input type="checkbox"  id="trans"> Transportation</label><br>
+    <label><input type="checkbox"  id="sr"> Search and Rescue</label><br>
+    <label><input type="checkbox"  id="ag"> Agricultural Safety</label><br>
+    <label><input type="checkbox"  id="pw"> Public Works</label><br>
+    <label><input type="checkbox"  id="other"> Other</label><br>
 </div>
       <button id="inputToDb">Submit</button>
       <button id="viewData">View</button>
@@ -115,8 +115,9 @@
   </form> 
 </div>
 
-        <div class="col-md-4">
+        <div class="col-sm-2">
     </div>
+</div>
   <script>
     let db = null
     const inputToDb = document.getElementById('inputToDb');
@@ -131,24 +132,114 @@
             const ln = document.getElementById('lastid').value
             const emal = document.getElementById('email').value
             const st = document.getElementById('state').value
-            const la = document.getElementById('law').value
-            const fi = document.getElementById('fire').value
-            const hc = document.getElementById('hc').value
-            const emsvar = document.getElementById('ems').value
-            const emvar = document.getElementById('em').value
-            const phealth = document.getElementById('ph').value
-            const govAdmin = document.getElementById('ga').value
-            const hazmat = document.getElementById('hm').value
-            const pubSaf = document.getElementById('psc').value
-            const secSaf = document.getElementById('ss').value
-            const educat = document.getElementById('edu').value
-            const itvar = document.getElementById('it').value
-            const cvol = document.getElementById('ccv').value
-            const trans = document.getElementById('trans').value
-            const searres = document.getElementById('sr').value
-            const agr = document.getElementById('ag').value
-            const pubwork = document.getElementById('pw').value
-            const oth = document.getElementById('other').value
+            if (document.getElementById('law').checked == true) {
+                var la = 'x'
+            } else {
+                var la = '';
+            }; 
+
+            if (document.getElementById('fire').checked == true){
+                var fi = 'x'
+            } else {
+                var fi = ''
+            };
+           
+            if (document.getElementById('hc').checked == true){
+                var hc = 'x'
+            } else {
+                var hc = ''
+            };
+            
+            if (document.getElementById('ems').checked == true){
+                var emsvar = 'x'
+            } else {
+                var emsvar = ''
+            };
+             
+            if (document.getElementById('em').checked == true) {
+                var emvar = 'x'
+            } else {
+                var emvar = ''
+            };
+
+            if (document.getElementById('ph').checked == true){
+                var  phealth = 'x'
+            } else {
+                var phealth = ''
+            };
+
+
+            if (document.getElementById('ga').checked == true){
+                var govAdmin = 'x'
+             } else {
+                var govAdmin = ''
+             };
+
+            if (document.getElementById('hm').checked == true){
+                var hazmat = 'x'
+             } else {
+                var hazmat = ''
+             };
+             
+            if (document.getElementById('psc').checked == true){
+                var pubSaf = 'x'
+             } else {
+                var pubSaf = ''
+             };
+
+            if (document.getElementById('ss').checked == true){
+                var secSaf = 'x'
+            } else {
+                var secSaf = ''
+            };
+             
+            if (document.getElementById('edu').checked == true){
+                var educat = 'x'
+            } else {
+                var educat = ''
+            };
+            
+            if (document.getElementById('it').checked == true){
+                var itvar = 'x'
+            } else {
+                var itvar = ''
+            };
+            
+            if (document.getElementById('ccv').checked == true){
+                var cvol = 'x'
+            } else {
+                var cvol = ''
+            };
+             
+            if (document.getElementById('trans').checked == true){
+                var trans = 'x'
+            } else {
+                var trans = ''
+            };
+            
+            if (document.getElementById('sr').checked == true){
+                var searres = 'x'
+            } else {
+                var searres = ''
+            };
+
+            if (document.getElementById('ag').checked == true){
+                var agr = 'x'
+            } else {
+                var agr = ''
+            };
+
+            if (document.getElementById('pw').checked == true){
+                var pubwork = 'x'
+            } else {
+                var pubwork = ''
+            };
+
+            if (document.getElementById('other').checked == true){
+                var oth = 'x'
+            } else {
+                var oth = ''
+            };
             
             const contact = {
                 contact: fn + " " + ln ,
