@@ -14,12 +14,14 @@ body{
     width: 100vw;
     height: 100vh;
     overflow: hidden;
+    position: fixed;
 }
 
 #wrapper {
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    overflow: hidden;
 }
 
 #wrapper > * {
