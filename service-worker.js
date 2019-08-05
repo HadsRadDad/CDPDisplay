@@ -114,7 +114,10 @@ const cacheAssets = [
   './media/ic03.jpg',
   './media/itc03.jpg',
   './media/rp03.jpg',
-  './media/tert.mp4'
+  './media/tert.mp4',
+  './form/form.html',
+  './form/formstyle.css',
+  './bootstrap/css/bootstrap.min.css'
 ];
 
 // Call install event

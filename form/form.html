@@ -107,8 +107,8 @@
     <div class="checkdiv"><label><input type="checkbox" class="check"  id="other"> Other</label></div>
   <div class="buttondiv">
       <button id="inputToDb" class="btn btn-primary">Submit</button>
-      <!--<button id="viewData">View</button>
-      <button id="clearData">Clear</button>-->
+      <button id="viewData">View</button>
+      <button id="clearData">Clear</button>
     </div>
   </form> 
 </div>
@@ -274,17 +274,23 @@
       }
 
         function viewInput() {
-            const tx = db.transaction("contacts","readonly")
+            const tx = db.transaction("contacts", "readonly")
             const pcontacts = tx.objectStore("contacts")
             const request = pcontacts.openCursor()
             request.onsuccess = e => {
                 const cursor = e.target.result
+                console.log(cursor)
                 if (cursor) {
-                    alert(`Contact: ${cursor.key}`)
-                    cursor.continue()
+                    const keyarr = []
+                    for (var field in cursor.value){
+                        keyarr.push(cursor.value[field]);
+                        cursor.continue()
+                    }
+                    console.log(keyarr.toString())
                 }
             }
         }
+
 
         function dataClear() {
             const tx= db.transaction("contacts", "readwrite");
