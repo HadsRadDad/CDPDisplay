@@ -58,7 +58,7 @@ select {
   flex-wrap: wrap;
   align-items: center;
   margin-left: 3rem;
-  width: 100px;
+  width: 30%;
 }
 
 .check {
