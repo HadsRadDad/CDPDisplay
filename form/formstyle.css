@@ -53,7 +53,6 @@ select {
 }
 
 .checkdiv{
-  width: 250px;
   display: flex;
   justify-content: end;
   flex-wrap: wrap;
