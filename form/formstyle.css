@@ -50,14 +50,13 @@ select {
   justify-content: space-between;
   flex-wrap: wrap;
   margin: 20px;
-  border-style: solid;
 }
 
 .checkdiv{
   margin-left: 15px;
   width: 30vw;
   max-height: 25px;
-  border-style: solid;
+
 }
 
 .check {
@@ -78,8 +77,6 @@ label {
   font-size: 12px;
   padding-left: 15px;
   text-indent: -15px;
-  border-style: solid;
-  border-color: blue;
 }
 
 .buttondiv {
