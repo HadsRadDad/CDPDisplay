@@ -53,11 +53,7 @@ select {
 }
 
 .checkdiv{
-  display: flex;
-  justify-content: end;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-left: 3rem;
+  margin-left: 15px;
   width: 300px;
   max-height: 25px;
 }
@@ -69,14 +65,14 @@ select {
   margin: 0;
   vertical-align: bottom;
   position: relative;
-  top: 2px;
-  right: 1rem;
+  top: -3px;
+  right: 3px;
   overflow: hidden;
 }
 
 label {
   display: block;
-  font: 16px;
+  font-size: 16px;
   padding-left: 15px;
   text-indent: -15px;
 }
