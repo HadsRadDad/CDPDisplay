@@ -49,11 +49,12 @@ select {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin: 20px;
+  margin-top: 20px;
+  width: 600px;
 }
 
 .checkdiv{
-  width: 24vw;
+  width: 250px;
   display: flex;
   justify-content: end;
   flex-wrap: wrap;
