@@ -113,3 +113,15 @@ label {
   box-shadow: 5px 4px 2px black;
   border-color: #2B3856;
 }
+
+#export{
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  height: 75px;
+  width: 100px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: transparent;
+  border-color: transparent;
+}
