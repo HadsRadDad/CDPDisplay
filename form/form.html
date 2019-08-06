@@ -10,7 +10,7 @@
 </head>
 <body>
 <div class='main'>
-  <form>
+
     <div class="row-md-12" id="mainformdiv">
           <div class="col-sm-1">
       </div>
@@ -110,7 +110,7 @@
       <!-- <button id="viewData">View</button>
       <button id="clearData">Clear</button> -->
     </div>
-  </form> 
+
 </div>
 
 </div>
@@ -270,11 +270,14 @@
             };
 
             const tx = db.transaction("contacts", "readwrite")
-            console.log(tx)
+            
             tx.onerror = e => alert( ` Error! ${e.target.error}  `)
-            const pContacts = tx.objectStore("contacts")
-            pContacts.add(contact)
-            window.location.href = '../index.html';
+
+            const pContacts = tx.objectStore("contacts");
+
+            pContacts.add(contact)         
+            
+            setTimeout("location.href = '../index.html';",600)
       }
 
         // function viewInput() {
