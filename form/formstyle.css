@@ -99,3 +99,17 @@ label {
   left: 50vw;
   top: 5vh;
 }
+
+#home{
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  height: 75px;
+  width: 100px;
+  color: white;
+  background-color: #2B3856;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 5px 4px 2px black;
+  border-color: #2B3856;
+}
