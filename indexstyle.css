@@ -1,6 +1,12 @@
 body{
     margin: 0 auto;
     overflow: hidden;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
 }
 
 #main {
@@ -15,6 +21,12 @@ body{
     height: 100vh;
     overflow: hidden;
     position: fixed;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
 }
 
 #wrapper {
@@ -22,10 +34,22 @@ body{
     flex-flow: row wrap;
     justify-content: center;
     overflow: hidden;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
 }
 
 #wrapper > * {
     flex: 1 100%;
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
 }
 
 #videobox{
@@ -94,6 +118,12 @@ body{
 #squarebutton:active{
     box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
     -webkit-box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
+    user-select: none; /* supported by Chrome and Opera */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+   -ms-user-select: none; /* Internet Explorer/Edge */
+   -webkit-touch-callout: none;
 }
 
 #contactbuttondiv {
