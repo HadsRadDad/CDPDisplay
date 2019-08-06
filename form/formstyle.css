@@ -20,10 +20,12 @@ div.row-md-12 {
 #formdiv {
     border-style: solid;
     border-radius: 20px;
+    border-color: red;
     padding-top: 5vw;
     margin: 7vh 25px 25px 25px;
     background-color: white;
     height: 75vh;
+    box-shadow: 25px 30px 35px #000000;
 }
 
 input[type=text], [type=email] {
@@ -32,17 +34,20 @@ input[type=text], [type=email] {
     padding: 10px 10px;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 1.5rem;
+    font-size: 20px;
     color: black;
     margin-bottom: 20px;
   }
 
 select {
-    width: 100%;
-    padding: 10px 10px;
-    border-radius: 4px;
-    box-sizing: border-box;
-    font-size: 1.5rem;
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 10px 10px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 30px;
 }
 
 .checkboxes {
@@ -54,6 +59,7 @@ select {
 
 .checkdiv{
   margin-left: 15px;
+  margin-bottom: 15px;
   width: 30vw;
   max-height: 25px;
 
@@ -81,4 +87,15 @@ label {
 
 .buttondiv {
   margin: 15px;
+}
+
+.btn {
+  height: 50px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold; 
+  box-shadow: 5px 4px 2px #000000;
+  position: relative;
+  left: 50vw;
+  top: 5vh;
 }

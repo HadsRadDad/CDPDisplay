@@ -107,8 +107,8 @@
     <div class="checkdiv"><label><input type="checkbox" class="check"  id="other"> Other</label></div>
   <div class="buttondiv">
       <button id="inputToDb" class="btn btn-primary">Submit</button>
-      <button id="viewData">View</button>
-      <button id="clearData">Clear</button>
+      <!-- <button id="viewData">View</button>
+      <button id="clearData">Clear</button> -->
     </div>
   </form> 
 </div>
@@ -125,10 +125,10 @@
 
     const inputToDb = document.getElementById('inputToDb');
     inputToDb.addEventListener('click', addData)
-    const viewData = document.getElementById('viewData');
-    viewData.addEventListener('click', viewInput)
-    const clearData = document.getElementById('clearData')
-    clearData.addEventListener('click', dataClear)
+    // const viewData = document.getElementById('viewData');
+    // viewData.addEventListener('click', viewInput)
+    // const clearData = document.getElementById('clearData')
+    // clearData.addEventListener('click', dataClear)
 
         function addData() {
             var objectStore = db.transaction("contacts").objectStore("contacts");
@@ -246,7 +246,7 @@
             };
             
             const contact = {
-                fistid: fn,
+                firstid: fn,
                 lastid: ln,
                 email: emal,
                 state: st,
@@ -277,44 +277,44 @@
             pContacts.add(contact)
       }
 
-        function viewInput() {
-            var objectStore = db.transaction("contacts").objectStore("contacts");
+        // function viewInput() {
+        //     var objectStore = db.transaction("contacts").objectStore("contacts");
             
-            objectStore.openCursor().onsuccess = function(event) {
-               var cursor = event.target.result;
-               var row = [];
-               if (cursor) {
-                  for (var item in cursor.value) {
-                    row.push(cursor.value[item]);
-                  } 
+        //     objectStore.openCursor().onsuccess = function(event) {
+        //        var cursor = event.target.result;
+        //        var row = [];
+        //        if (cursor) {
+        //           for (var item in cursor.value) {
+        //             row.push(cursor.value[item]);
+        //           } 
                   
-                  csv.push(row.join(','));
+        //           csv.push(row.join(','));
 
-                  cursor.continue();
-                } else {
-                    var file = new Blob([csv.join('\n')], { type: 'text/csv' });
-                    var url = URL.createObjectURL(file);
-                    var link = document.createElement('a');
-                    link.href = url;
-                    link.download = 'file.csv';
-                    link.style.display = 'none';
-                    document.body.appendChild(link);
-                    link.click();
-                    link.parentElement.removeChild(link);
-               }
+        //           cursor.continue();
+        //         } else {
+        //             var file = new Blob([csv.join('\n')], { type: 'text/csv' });
+        //             var url = URL.createObjectURL(file);
+        //             var link = document.createElement('a');
+        //             link.href = url;
+        //             link.download = 'file.csv';
+        //             link.style.display = 'none';
+        //             document.body.appendChild(link);
+        //             link.click();
+        //             link.parentElement.removeChild(link);
+        //        }
 
                
-            };
+        //     };
             
             
-        }
+        // }
 
 
-    function dataClear() {
-            const tx= db.transaction("contacts", "readwrite");
-            const objStore = tx.objectStore('contacts')
-            objStore.clear()
-        }
+    // function dataClear() {
+    //         const tx= db.transaction("contacts", "readwrite");
+    //         const objStore = tx.objectStore('contacts')
+    //         objStore.clear()
+    //     }
 
     const request = indexedDB.open('contactDB', 1)
      
