@@ -82,6 +82,7 @@ body{
     text-shadow: 2px 3px black;
     font-size: calc(5px + 1vw);
     box-shadow: 15px 13px 4px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 15px 13px 4px -2px rgba(0,0,0,0.75);
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -92,6 +93,7 @@ body{
 
 #squarebutton:active{
     box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
 }
 
 #contactbuttondiv {

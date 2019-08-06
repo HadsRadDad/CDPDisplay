@@ -113,7 +113,6 @@
   </form> 
 </div>
 
-
 </div>
 <div class="col-sm-1">
     </div>
@@ -275,6 +274,7 @@
             tx.onerror = e => alert( ` Error! ${e.target.error}  `)
             const pContacts = tx.objectStore("contacts")
             pContacts.add(contact)
+            window.location.href = '../index.html';
       }
 
         // function viewInput() {
