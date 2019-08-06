@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Export</title>
+</head>
+<body>
+    <button id="download">Download Data</button>
+    
+    <script>
+
+    let db = null
+    var request = indexedDB.open('contactDB', 1);
+    var csv = ['contact, first name, last name,email,state,law,fire,hc,ems,em,ph,ga,hm,psc,ss,edu,it,ccv,trans,sr,ag,pw,other'];
+    
+    request.onsuccess = e => {
+        db = request.result;
+    }
+                //on error
+    request.onerror = e => {
+        alert(`error: ${e.target.error} was found `)
+    }
+
+    request.onupgradeneeded = e => {
+    db = e.target.result
+    const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
+    }
+    
+    const viewData = document.getElementById('download');
+    viewData.addEventListener('click', viewInput)
+
+    function viewInput() {
+    var objectStore = db.transaction("contacts").objectStore("contacts");
+            
+            objectStore.openCursor().onsuccess = function(event) {
+               var cursor = event.target.result;
+               var row = [];
+               if (cursor) {
+                  for (var item in cursor.value) {
+                    row.push(cursor.value[item]);
+                  }
+
+                  csv.push(row.join(','));
+
+                  cursor.continue();
+                } else {
+                    var file = new Blob([csv.join('\n')], { type: 'text/csv' });
+                    var url = URL.createObjectURL(file);
+                    var link = document.createElement('a');
+                    link.href = url;
+                    link.download = 'file.csv';
+                    link.style.display = 'none';
+                    document.body.appendChild(link);
+                    link.click();
+                    link.parentElement.removeChild(link);
+               }
+
+               
+            };
+            
+            
+        }
+
+  </script>
+</body>
+</html>

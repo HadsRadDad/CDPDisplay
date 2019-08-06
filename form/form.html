@@ -119,17 +119,7 @@
     </div>
   <script>
     var db = null;
-    var request = window.indexedDB.open('contactDB', 1);
     var csv = ['contact, first name, last name,email,state,law,fire,hc,ems,em,ph,ga,hm,psc,ss,edu,it,ccv,trans,sr,ag,pw,other'];
-
-    request.onsuccess = e => {
-        db = request.result;
-    }
-                //on error
-    request.onerror = e => {
-        alert(`error: ${e.target.error} was found `)
-    }
-
 
 
 
@@ -321,18 +311,29 @@
         }
 
 
-        function dataClear() {
+    function dataClear() {
             const tx= db.transaction("contacts", "readwrite");
             const objStore = tx.objectStore('contacts')
             objStore.clear()
         }
 
-    
+    const request = indexedDB.open('contactDB', 1)
      
-    //  request.onupgradeneeded = e => {
-    //     db = e.target.result
-    //     const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
-    // }
+    request.onupgradeneeded = e => {
+        db = e.target.result
+        const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
+    }
+            
+    request.onsuccess = e => {
+        db = e.target.result
+    }
+        
+    request.onerror = e => {
+        alert(`error: ${e.target.error} was found `)
+                     
+    }
+     
+ 
 
             
     
