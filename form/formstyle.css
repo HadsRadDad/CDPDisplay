@@ -31,10 +31,10 @@ div.row-md-12 {
 input[type=text], [type=email] {
     width: 100%;
     border: 1px solid #ccc;
-    padding: 10px 10px;
+    padding: 8px 8px;
     border-radius: 4px;
     box-sizing: border-box;
-    font-size: 20px;
+    font-size: 15px;
     color: black;
     margin-bottom: 20px;
   }
@@ -42,10 +42,10 @@ input[type=text], [type=email] {
 select {
   width: 100%;
   border: 1px solid #ccc;
-  padding: 10px 10px;
+  padding: 8px 8px;
   border-radius: 4px;
   box-sizing: border-box;
-  font-size: 20px;
+  font-size: 15px;
   color: black;
   margin-bottom: 30px;
 }
