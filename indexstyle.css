@@ -115,7 +115,7 @@ body{
    -webkit-touch-callout: none;
 }
 
-#squarebutton:active{
+#squarebutton:focus{
     box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
     -webkit-box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
     user-select: none; /* supported by Chrome and Opera */
