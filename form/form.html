@@ -119,7 +119,7 @@
     </div>
   <script>
     var db = null;
-    var csv = ['contact, first name, last name,email,state,law,fire,hc,ems,em,ph,ga,hm,psc,ss,edu,it,ccv,trans,sr,ag,pw,other'];
+    var csv = ['first name, last name,email,state,law,fire,hc,ems,em,ph,ga,hm,psc,ss,edu,it,ccv,trans,sr,ag,pw,other'];
 
 
 
@@ -246,7 +246,6 @@
             };
             
             const contact = {
-                contact: fn + " " + ln ,
                 fistid: fn,
                 lastid: ln,
                 email: emal,
@@ -287,8 +286,8 @@
                if (cursor) {
                   for (var item in cursor.value) {
                     row.push(cursor.value[item]);
-                  }
-
+                  } 
+                  
                   csv.push(row.join(','));
 
                   cursor.continue();
@@ -321,7 +320,7 @@
      
     request.onupgradeneeded = e => {
         db = e.target.result
-        const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
+        const pcontacts = db.createObjectStore("contacts", { autoIncrement : true })
     }
             
     request.onsuccess = e => {
