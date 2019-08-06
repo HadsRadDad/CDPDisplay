@@ -118,7 +118,21 @@
 <div class="col-sm-1">
     </div>
   <script>
-    let db = null
+    var db = null;
+    var request = window.indexedDB.open('contactDB', 1);
+    var csv = ['contact, first name, last name,email,state,law,fire,hc,ems,em,ph,ga,hm,psc,ss,edu,it,ccv,trans,sr,ag,pw,other'];
+
+    request.onsuccess = e => {
+        db = request.result;
+    }
+                //on error
+    request.onerror = e => {
+        alert(`error: ${e.target.error} was found `)
+    }
+
+
+
+
     const inputToDb = document.getElementById('inputToDb');
     inputToDb.addEventListener('click', addData)
     const viewData = document.getElementById('viewData');
@@ -127,6 +141,7 @@
     clearData.addEventListener('click', dataClear)
 
         function addData() {
+            var objectStore = db.transaction("contacts").objectStore("contacts");
             const fn = document.getElementById('firstid').value
             const ln = document.getElementById('lastid').value
             const emal = document.getElementById('email').value
@@ -274,21 +289,35 @@
       }
 
         function viewInput() {
-            const tx = db.transaction("contacts", "readonly")
-            const pcontacts = tx.objectStore("contacts")
-            const request = pcontacts.openCursor()
-            request.onsuccess = e => {
-                const cursor = e.target.result
-                console.log(cursor)
-                if (cursor) {
-                    const keyarr = []
-                    for (var field in cursor.value){
-                        keyarr.push(cursor.value[field]);
-                        cursor.continue()
-                    }
-                    console.log(keyarr.toString())
-                }
-            }
+            var objectStore = db.transaction("contacts").objectStore("contacts");
+            
+            objectStore.openCursor().onsuccess = function(event) {
+               var cursor = event.target.result;
+               var row = [];
+               if (cursor) {
+                  for (var item in cursor.value) {
+                    row.push(cursor.value[item]);
+                  }
+
+                  csv.push(row.join(','));
+
+                  cursor.continue();
+                } else {
+                    var file = new Blob([csv.join('\n')], { type: 'text/csv' });
+                    var url = URL.createObjectURL(file);
+                    var link = document.createElement('a');
+                    link.href = url;
+                    link.download = 'file.csv';
+                    link.style.display = 'none';
+                    document.body.appendChild(link);
+                    link.click();
+                    link.parentElement.removeChild(link);
+               }
+
+               
+            };
+            
+            
         }
 
 
@@ -298,21 +327,15 @@
             objStore.clear()
         }
 
-     const request = indexedDB.open('contactDB', 1)
+    
      
-     request.onupgradeneeded = e => {
-        db = e.target.result
-        const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
-    }
+    //  request.onupgradeneeded = e => {
+    //     db = e.target.result
+    //     const pcontacts = db.createObjectStore("contacts", {keyPath: "contact"})
+    // }
+
             
-    request.onsuccess = e => {
-        db = e.target.result
-    }
-                //on error
-    request.onerror = e => {
-        alert(`error: ${e.target.error} was found `)
-                     
-    }
+    
 
   </script>
 
