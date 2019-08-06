@@ -32,7 +32,12 @@ div.home {
     border: 3px;
     border-color: black;
     border-style: solid;
-	cursor: none;
+    cursor: none;
+    box-shadow: 10px 8px 4px -2px rgba(0,0,0,0.75);
+}
+
+div.home:active{
+    box-shadow: 10px 8px 4px -8px rgba(0,0,0,0.75);
 }
 
 div.top{
@@ -112,7 +117,7 @@ div.content {
     margin: 0 10px 15px 10px;
     text-shadow: 1px 1px 0px #1569C7;
     text-decoration: none;
-    box-shadow: 5px 5px 0px black;
+    box-shadow: 10px 8px 4px -2px rgba(0,0,0,0.75);
     font-weight: normal;
     font-family: Sans-Serif;
     height: 350px;
@@ -123,6 +128,10 @@ div.content {
 	border-color: red;
 	border-width: 3px;
 	border-radius: 15px;
+}
+
+.button:active{
+    box-shadow: 10px 8px 4px -8px rgba(0,0,0,0.75);
 }
 
 ::-webkit-scrollbar {
