@@ -71,6 +71,8 @@
     
     const viewData = document.getElementById('download');
     viewData.addEventListener('click', viewInput)
+    const clearData = document.getElementById('cleardata');
+    clearData.addEventListener('click', dataClear)
 
     function viewInput() {
     var objectStore = db.transaction("contacts").objectStore("contacts");

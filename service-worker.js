@@ -117,6 +117,7 @@ const cacheAssets = [
   './media/tert.mp4',
   './form/form.html',
   './form/formstyle.css',
+  './form/export.html',
   './bootstrap/css/bootstrap.min.css'
 ];
 
