@@ -4,11 +4,52 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <style>
+        body{
+            margin: auto 0;
+        }
+
+        .container {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            position: fixed;
+            flex-wrap: wrap;
+        }
+
+        button {
+            height: 75px;
+            width: 250px;
+            font-size: 25px;
+            font-weight: bold; 
+            box-shadow: 5px 4px 2px #000000;
+            margin: 15px;
+            color: white;
+            border-radius: 15px;
+            margin-left: 10vw;
+            margin-right: 10vw;
+        }
+
+        .download {
+            background-color: blue;
+            border-color: blue;
+        }
+
+        .clear{
+            background-color: red;
+            border-color: red;
+        }
+
+    </style>
     <title>Export</title>
 </head>
 <body>
-    <button id="download">Download Data</button>
-    <button id="cleardata">Clear Data</button>
+    <div class="container">
+    <button class="download" id="download">Download Data</button>
+    <button class="clear" id="cleardata">Clear Data</button>
+    </div>
     <script>
 
     let db = null
