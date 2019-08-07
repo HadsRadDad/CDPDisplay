@@ -28,7 +28,7 @@ div.home {
     height: 70px;
     width: 90px;
     left: 87vw;
-    top: 90vh;
+    bottom: 2vh;
     border: 3px;
     border-color: black;
     border-style: solid;
