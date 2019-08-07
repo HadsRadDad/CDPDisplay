@@ -1,13 +1,6 @@
   <div class="title"><h1> Healthcare Leadership and Administrative Decision Making (HCL) </h1></div>
 <!--course media-->
- <div class="mediabox"><video class="vid" controls autoplay>
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/hcl.mp4" type="video/mp4">
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/hcl.mp4" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video> 
-<!--END OF COURSE MEDIA-->
-</div>
-
+    <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hcl.jpg"></div>
  <div class="infobox">
 <h2>Overview</h2>
 <p>Healthcare Leadership for Mass Casualty Incidents is a four-day course that addresses disaster preparedness at the facility and system level. Healthcare leaders must be prepared for any incident that results in multiple casualties, whether it is the result of a natural disaster; an accidental or intentional release of a chemical, biological, radiological, nuclear, or explosives (CBRNE) hazard; or a disease outbreak that results in an epidemic or pandemic. This course focuses on preparing healthcare leaders to make critical decisions in all-hazards disaster emergency preparedness activities. Responders learn essential disaster-planning response and recovery functions through lecture/discussion format that are then applied in a tabletop exercise and a two-day functional exercise.</p>

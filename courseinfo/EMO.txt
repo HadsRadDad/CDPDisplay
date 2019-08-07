@@ -1,12 +1,6 @@
   <div class="title"><h1> Emergency Medical Operations for CBRNE Incidents (EMO) </h1></div>
 <!--course media-->
- <div class="mediabox"><video class="vid" controls autoplay>
-  <source src="../media/emo.mp4" type="video/mp4">
-  <source src="../media/emo.mp4" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video> 
-<!--END OF COURSE MEDIA-->
-</div>
+    <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/emo.jpg"></div>
 <div class="infobox">
 <h2>Overview</h2>
 <p>The Emergency Medical Operations for CBRNE Incidents (EMO) is a four-day course that prepares responders to effectively respond to a chemical, biological, radiological, nuclear, or explosive (CBRNE) or mass casualty incident. The four-day EMO course provides classroom lectures, extensive hands-on training, and culminates with a hands-on practical exercise that allows responders to implement the emergency-response knowledge and skills learned during the course.</p>

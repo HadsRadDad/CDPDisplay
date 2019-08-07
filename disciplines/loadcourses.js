@@ -62,10 +62,6 @@
         $("#classinfo").load("https://hadsraddad.github.io/CDPDisplay/courseinfo/FRAME.txt");
     });
 		
-	$("#HARM").click(function(){
-		$("#classinfo").load("https://hadsraddad.github.io/CDPDisplay/courseinfo/HARM.txt");
-    });
-	
 	$("#HMO").click(function(){
         $("#classinfo").load("https://hadsraddad.github.io/CDPDisplay/courseinfo/HMO.txt");
     });
