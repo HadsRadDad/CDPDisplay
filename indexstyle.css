@@ -89,8 +89,8 @@ body{
 
 #squarebutton {
     display: flex;
-    height: 20vw;
-    width: 20vw;
+    height: 20.5vw;
+    width: 20.5vw;
     max-width: 135px;
     max-height: 135px;
     border-style: solid;
@@ -215,8 +215,10 @@ body{
 
 #textunder {
     font-family: sans-serif;
-    font-size: 13px;
+    font-size: 12.5px;
     text-shadow: 3px 3px 1px black;
+    padding-left: 10px;
+    padding-right: 10px;
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
