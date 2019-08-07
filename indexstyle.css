@@ -242,6 +242,10 @@ a:active{
     text-decoration: none;
 }
 
+a:hover{
+    text-decoration: none;
+}
+
  @media (orientation: landscape) {
 
 body{
