@@ -1,4 +1,4 @@
-const cacheName = 'ipad.v0.8.4';
+const cacheName = 'ipad.v0.9.0';
 
 const cacheAssets = [
   'index.html',
