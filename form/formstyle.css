@@ -129,3 +129,91 @@ label {
   background-color: transparent;
   border-color: transparent;
 }
+
+@media (orientation: landscape) {
+
+  input[type=text], [type=email] {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 2px 2px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 12px;
+    color: black;
+    margin-bottom: 10px;
+  }
+
+select {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 5px 5px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 12px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+.checkboxes {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.checkdiv{
+  margin-left: 15px;
+  margin-bottom: 14px;
+  width: 30vw;
+  max-height: 15px;
+}
+
+}
+
+.check {
+  width: 20px;
+  height: 20px;
+  padding: 0;
+  margin: 0;
+  vertical-align: bottom;
+  position: relative;
+  top: -1px;
+  right: 3px;
+  overflow: hidden;
+  border-style: solid;
+}
+
+label {
+  display: block;
+  font-size: 12px;
+  padding-left: 15px;
+  text-indent: -15px;
+}
+
+.buttondiv {
+  margin: 15px;
+}
+
+.btn {
+  height: 50px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold; 
+  box-shadow: 5px 4px 2px #000000;
+  position: relative;
+  left: 45vw;
+  top: 1vh;
+}
+
+.btn {
+  height: 50px;
+  width: 150px;
+  font-size: 25px;
+  font-weight: bold; 
+  box-shadow: 5px 4px 2px #000000;
+  position: relative;
+  left: 55vw;
+  top: -2vh;
+}
+
+}
