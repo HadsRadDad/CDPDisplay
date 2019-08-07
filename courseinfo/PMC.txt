@@ -1,7 +1,5 @@
   <div class="title"><h1> Protective Measures Course (PMC) </h1></div>
 
-END OF COURSE MEDIA
-
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Protective Measures Course is a one-day course that provides an overview of identifying risk and the development of appropriate protective measures for different facility characteristics. The course provides activities that allow students to apply a modified vulnerability assessment to identify risks and determine appropriate protective measures for a given environmental venue.</p>

@@ -1,12 +1,5 @@
   <div class="title"><div class="title><h1> REP Plan Review (RPPR) </h1></div>
 
- <div class="mediabox"><video class="vid" controls autoplay>
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video> 
-</div>
-END OF COURSE MEDIA
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Radiological Emergency Preparedness (REP) REP Plan Review Course (RPPR) is a three-day course which focuses on the review of REP emergency plans, specifically the NUREG 0654 planning standards that address the public's health and safety. This revised REP Plan Review Course will include training based on the Comprehensive Preparedness Guide (CPG) -101, familiarization of Hostile Action Based (HAB) plan review, annual plan review, and the Annual Letter of Certification Review process. Required: Each student should bring a copy of their ORO's REP Plan for use during the classroom exercises, to include the NUREG Cross-reference (electronic or otherwise).</p>

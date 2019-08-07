@@ -1,9 +1,5 @@
 <div class="title"><h1> REP Plan Core Concepts (RPCC) </h1></div>
- <div class="mediabox">video class="vid" controls autoplay>
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/mp4">
-  <source src="https://hadsraddad.github.io/CDPDisplay/media/ht.mp4" type="video/ogg">
-  Your browser does not support HTML5 video.
-</video> 
+
  <div class="infobox">
 <h2>Overview</h2>
 <p>The REP Program Planning Core Concepts Course (RPCC) will assist Federal, State, tribal and local emergency managers more effectively meet the planning challenges presented to the emergency responder community during a radiological incident at a NRC-licensed commercial nuclear power plant (NPP).<p>

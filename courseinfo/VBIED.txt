@@ -1,5 +1,4 @@
-  <div class="title><h1> Vehicle-Borne Improvised Explosive Device Detection (VBIED) </h1></div>
-
+<div class="title"><h1> Vehicle-Borne Improvised Explosive Device Detection (VBIED) </h1></div>
 <div class="infobox">
 <h2>Overview</h2>
 <p>The Vehicle-Borne Improvised Explosive Device Detection (VBIED) course is a one-day course which provides response personnel with the knowledge and skills in the improvised-explosive device (IED) threat, identification of components and devices, methods for reacting to IEDs, and the procedures for inspecting vehicles to detect vehicle-borne IEDs. The course includes an overview of the vehicle-borne IED threat, fundamentals of IED and explosive effects, means for creation of homemade explosive devices, vehicle-borne IED clues, vehicle inspection-procedures, and a comprehensive exercise for inspecting vehicles and identifying vehicle-borne IED threats.</p>
