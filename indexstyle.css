@@ -52,32 +52,13 @@ body{
    -webkit-touch-callout: none;
 }
 
-#videobox{
-    display: flex;
-    flex-basis: 100%;
-    align-items: center;
-    justify-content: center;
-    max-width: 700px;
-    margin: 3vh 1vh 1vh 1vh;
-    flex-wrap: wrap;
-}
-
-#video {
-    width: 70vw;
-    background-color: black;
-    max-width: 700px;
-    border-style: solid;
-    border-radius: 1.5vw;
-    border-color: red;
-}
-
 #buttoncontainer {
     flex-basis: 100%;
+    margin: 0 5px 0 5px;
     align-items: center;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-    max-width: 700px;
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -89,36 +70,36 @@ body{
 
 #squarebutton {
     display: flex;
-    height: 20.5vw;
-    width: 20.5vw;
-    max-width: 140px;
-    max-height: 140px;
+    padding: 5px;
+    height: 16vw;
+    width: 16vw;
     border-style: solid;
-    border-color: red;
+    border-color: rgb(250, 2, 2);
+    border-width: 2.5px;
     background-color: #2B3856;
-    border-radius: 1.5vh;
-    margin: 1.5vw;
-    justify-content: space-around;
+    border-radius: 10px;
+    margin: 2vw 2vw;
+    justify-content: center;
     align-items: center;
     color: white;
     flex-wrap: wrap;
     text-align: center;
-    text-shadow: 2px 3px black;
-    font-size: 15px;
-    font-weight: 700;
-    box-shadow: 15px 13px 4px -2px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 15px 13px 4px -2px rgba(0,0,0,0.75);
-    user-select: none; /* supported by Chrome and Opera */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
-   -webkit-touch-callout: none;
+    text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
+    font-size: 5vw;
+    font-family: Discipline;
+    box-shadow: 8px 7px 2px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 7px 2px -2px rgba(0,0,0,0.75);
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
 }
 
 #squarebutton:hover{
-    box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 15px 13px 4px -8px rgba(0,0,0,0.75);
+    box-shadow: 8px 7px 2px -25px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 7px 2px -25px rgba(0,0,0,0.75);
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -127,16 +108,9 @@ body{
    -webkit-touch-callout: none;
 }
 
-#contactbuttondiv {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    user-select: none; /* supported by Chrome and Opera */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
-   -webkit-touch-callout: none;
+#plaintext{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 2vw;
 }
 
 .row{
@@ -150,14 +124,15 @@ body{
 }
 
 #contactbutton {
-    height: 20vw;
+    height: 16vw;
     width: 65vw;
-    max-height: 135px;
+    max-height: 120px;
     max-width: 575px;
     border-style: solid;
-    border-color: red;
+    border-color: rgb(250, 2, 2);
+    border-width: 2.5px;
     background-color: #2B3856;
-    border-radius: 1.5vh;
+    border-radius: 10px;
     font-family: sans-serif;
     display: flex;
     align-items: center;
@@ -166,7 +141,9 @@ body{
     font-weight: 800;
     color: white;
     text-shadow: 5px 6px black;
-    font-size: 3rem;
+    font-size: 3vw;
+    box-shadow: 8px 7px 2px -2px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 7px 2px -2px rgba(0,0,0,0.75);
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -176,8 +153,9 @@ body{
     -webkit-touch-callout: none;
 }
 
-#contactbutton:active{
-    
+#contactbutton:hover {
+    box-shadow: 8px 7px 2px -25px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 8px 7px 2px -25px rgba(0,0,0,0.75);
 }
 
 @font-face {
@@ -186,25 +164,11 @@ body{
 	font-weight: bold;
 }
 
-#emblem {
-    font-family: Discipline;
-    font-size: 40px;
-    flex-basis: 100%;
-    align-self: flex-end;
-    user-select: none; /* supported by Chrome and Opera */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
-   -webkit-touch-callout: none;
-}    
-
 #emblemtext{
     font-family: sans-serif;
-    font-size: 35px;
-    font-weight: bold;
-    flex-basis: 100%;
-    align-self: flex-end;
+    font-size: 3vw;
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -214,46 +178,27 @@ body{
 }   
 
 #textunder {
-    font-family: sans-serif;
-    font-size: 12.5px;
-    text-shadow: 3px 3px 1px black;
-    user-select: none; /* supported by Chrome and Opera */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
-   -webkit-touch-callout: none;
+    font-size: 1.5vw;
+    width: 100%;
+    text-shadow: 0px 0px 3px #000, -1px -1px #000, 1px 1px #000;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: bold, 100;
+    color: white;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-touch-callout: none;
 }
 
-#landcontactbutton{
-    display: none;
-}
-
-
-a {
-    text-decoration: none;
-    user-select: none; /* supported by Chrome and Opera */
-    -webkit-user-select: none; /* Safari */
-    -khtml-user-select: none; /* Konqueror HTML */
-    -moz-user-select: none; /* Firefox */
-   -ms-user-select: none; /* Internet Explorer/Edge */
-   -webkit-touch-callout: none;
-}
-
-a:active{
-    text-decoration: none;
-}
-
-a:hover{
-    text-decoration: none;
-}
 
  @media (orientation: landscape) {
 
 body{
     display: flex;
     justify-content: center;
-    align-content: center;
     background-color: black;
 }
 
@@ -261,75 +206,27 @@ body{
     max-width: 1920px;
 }
 
-
-#videobox{
-    margin: 5vh 1vw 5vh 5vw;
-    display: flex;
-    flex-basis: 30%;
-    align-items: center;
-    justify-content: center;
-}
-
-#video {
-    width: 45vw;
-    align-self: center;
-}
-
-#buttoncontainer {
-    margin: 0vh 1vw 2vh 1vw;
-    justify-content: center;
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-}
-
 #squarebutton {
-    height: 15vh;
-    width: 15vh;
-    max-width: 135px;
-    max-height: 135px;
-    margin: 1vw;
-    padding: .5vw;
-    box-shadow: 1vw 2.5vh 5px -1px black;
-    font-size: calc(5px + 1.25vh);
-}
-
-#contactbuttondiv {
-    margin: 5vh 1vw 0vh 1vw;
+    height: 16vh;
+    width: 16vh; 
+    margin: 2vh 2vh; 
+    font-size: 5vh;
 }
 
 #contactbutton {
-    height: 15vh;
-    max-width: 925px;
-    font-size: calc(10px + 1.25vh);
+    height: 16vh;
+    min-height: 50px;
+    font-size: 3vh;
+    text-shadow: 2px 2px black;
 }
 
-.landcontactbutton {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    color: white;
-    font-weight: 800;
-    background-color: #2B3856;
-    border-style: solid;
-    border-color: red;
-    flex-basis: 100%;
-    height: 7.5vw;
-    border-radius: 1vw;
-    max-width: 1225px;
-    font-size: 3vw;
-}
-
-
-#emblem {
-    font-family: Discipline;
-    flex-basis: 100%;
-    font-size: calc(20px + 2vh);
+#plaintext{
+    font-size: 2vh;
 }
 
 #emblemtext{
     font-family: sans-serif;
-    font-size: calc(10px + 1.5vh);
+    font-size: 5vh;
     flex-basis: 100%;
 }   
 
@@ -340,8 +237,7 @@ body{
 
 #textunder {
     font-family: sans-serif;
-    font-size: calc(1px + 1.25vh);
-
+    font-size: 1.5vh;
 }
 
 }
