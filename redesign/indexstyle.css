@@ -92,6 +92,7 @@ body{
     width: 76px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
+    border-width: 2.5px;
     background-color: #0071BC;
     border-radius: 10px;
     margin: 0vw 3vh;
@@ -153,7 +154,7 @@ body{
     max-width: 575px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
-    border-width: 3px;
+    border-width: 2.5px;
     background-color: #0071BC;
     border-radius: 10px;
     font-family: sans-serif;
