@@ -88,8 +88,8 @@ body{
 
 #squarebutton {
     display: flex;
-    height: 96px;
-    width: 96px;
+    height: 76px;
+    width: 76px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
     background-color: #0071BC;
@@ -147,8 +147,9 @@ body{
 }
 
 #contactbutton {
-    height: 96px;
+    height: 76px;
     width: 65vw;
+    max-height: 135px;
     max-width: 575px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
