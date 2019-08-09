@@ -71,8 +71,8 @@ body{
 #squarebutton {
     display: flex;
     padding: 5px;
-    height: 15vw;
-    width: 15vw;
+    height: 16vw;
+    width: 16vw;
     border-style: solid;
     border-color: rgb(250, 2, 2);
     border-width: 2.5px;
@@ -124,7 +124,7 @@ body{
 }
 
 #contactbutton {
-    height: 15vw;
+    height: 16vw;
     width: 65vw;
     max-height: 120px;
     max-width: 575px;
