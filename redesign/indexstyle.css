@@ -77,7 +77,6 @@ body{
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
-    max-width: 700px;
     user-select: none; /* supported by Chrome and Opera */
     -webkit-user-select: none; /* Safari */
     -khtml-user-select: none; /* Konqueror HTML */
@@ -89,10 +88,8 @@ body{
 
 #squarebutton {
     display: flex;
-    height: 76px;
-    width: 76px;
-    min-width: 50px;
-    min-height: 50px;
+    height: 96px;
+    width: 96px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
     background-color: #0071BC;
@@ -150,9 +147,8 @@ body{
 }
 
 #contactbutton {
-    height: 8.5vw;
+    height: 96px;
     width: 65vw;
-    max-height: 135px;
     max-width: 575px;
     border-style: solid;
     border-color: rgb(250, 2, 2);
