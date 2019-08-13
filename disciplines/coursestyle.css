@@ -211,6 +211,7 @@ img.middle {
   }
 
 @media only screen and (orientation: portrait) {
+   
     #home{
         position: absolute;
         bottom: 1vh;
