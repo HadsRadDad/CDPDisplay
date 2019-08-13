@@ -255,7 +255,6 @@ and (orientation: portrait) {
         margin: auto;
         width: 90vw;
         height: 65vh;
-        margin-top: -1vh;
     }
 
     #home{
