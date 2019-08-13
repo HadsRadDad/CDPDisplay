@@ -243,7 +243,10 @@ and (orientation: portrait) {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        margin-top: 1vh;
         cursor: none;
+        overflow-x: scroll;
+        overflow-y: hidden;
         flex-basis: 100%;
         width: 99vw;
         height: 12vh;
@@ -253,6 +256,7 @@ and (orientation: portrait) {
         margin: auto;
         width: 90vw;
         height: 65vh;
+        margin-top: -1vh;
     }
 
     #home{
@@ -265,6 +269,7 @@ and (orientation: portrait) {
 
     .button{
         width: 50%;
+        min-width: 25vw;
         height: 18vw;
         min-height: 60px;
         padding: 1vw;
