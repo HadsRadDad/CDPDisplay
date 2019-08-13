@@ -243,7 +243,6 @@ and (orientation: portrait) {
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
-        margin-top: 1vh;
         cursor: none;
         overflow-x: scroll;
         overflow-y: hidden;
