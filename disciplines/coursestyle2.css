@@ -1,5 +1,4 @@
 
-
 .main {
     background-image: url("../ipadbg.png"), linear-gradient(to right, #d4d6f1 59%, #666699 100%);
     background-blend-mode: hard-light;
@@ -279,3 +278,4 @@ and (orientation: portrait) {
         font-size: 2vw;
     }
 }
+
