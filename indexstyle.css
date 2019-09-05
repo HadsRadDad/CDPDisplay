@@ -9,6 +9,7 @@ body{
    -webkit-touch-callout: none;
 }
 
+
 #main {
     background-image: url("./ipadbg.png"), linear-gradient(to right, #ffffff 59%, #666699 190%);
     background-image: url("./ipadbg.png"), -webkit-linear-gradient(to right, #ffffff 59%, #666699 190%);
