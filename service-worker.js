@@ -133,7 +133,10 @@ self.addEventListener('install', e =>{
 
 self.addEventListener('activate', e =>{
   console.log('Service Worker: Activated');
-  setInterval(console.log('this is a test'),5000)
+  let sayHello = () => {
+    console.log('hello')
+  }
+  setInterval(sayHello,5000)
   // Remove old caches
   e.waitUntil(
     caches.keys().then(cacheNames => {
