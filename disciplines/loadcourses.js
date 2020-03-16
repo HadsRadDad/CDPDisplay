@@ -5,7 +5,7 @@ $(document).ready(function () {
 		});
 	});
 });
-
+//JIC
 // $("#ARIO").click(function(){
 //     $("#classinfo").load("https://hadsraddad.github.io/CDPDisplay/courseinfo/ARIO.txt");
 // });
