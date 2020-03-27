@@ -1,31 +1,31 @@
 {
-  "short_name": "Display",
-  "name": "CDP Conference Display",
-  "icons": [
-    {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "48x48"
-    },
-    {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "128x128"
-    },
-	    {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-	    {
-      "src": "icon.png",
-      "type": "image/png",
-      "sizes": "256x256"
-    }
-  ],
-  "start_url": "https://hadsraddad.github.io/CDPDisplay/",
-  "background_color": "#3367D6",
-  "display": "standalone",
-  "orientation": "portrait",
-  "theme_color": "#3367D6"
+	"short_name": "Display",
+	"name": "CDP Conference Display",
+	"icons": [
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "256x256"
+		}
+	],
+	"start_url": "https://hadsraddad.github.io/CDPMoblieDisplayApp/",
+	"background_color": "#3367D6",
+	"display": "standalone",
+	"orientation": "portrait",
+	"theme_color": "#3367D6"
 }
