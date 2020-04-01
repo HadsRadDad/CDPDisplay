@@ -133,11 +133,7 @@ self.addEventListener('install', (e) => {
 
 self.addEventListener('activate', (e) => {
 	console.log('Service Worker: Activated');
-	let sayHello = () => {
-		console.log('hello');
-	};
-	setInterval(sayHello, 5000);
-	// Remove old caches
+
 	e.waitUntil(
 		caches.keys().then((cacheNames) => {
 			return Promise.all(
@@ -152,7 +148,7 @@ self.addEventListener('activate', (e) => {
 	);
 });
 
-// Call Fetch Event
+//Listen for fetch event
 self.addEventListener('fetch', (e) => {
 	console.log('Service Worker: Fetching');
 	e.respondWith(fetch(e.request).catch(() => caches.match(e.request)));
