@@ -1,7 +1,7 @@
 <div class="title">
 <h1>Hazardous Materials Operations (HMO)</h1>
 </div> 
-<div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hazmatops03.jpg"></div>
+<div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/hazmatops03.jpg"></div>
 <div class="infobox">
 <h2>Overview</h2>
 <p>The Hazardous Materials Operations (HAZMAT OPS) course is a five-day course that provides responders with the knowledge, skills, and abilities necessary to analyze, plan, and implement performance-defensive response actions for hazardous materials (HAZMAT) incidents. During this course, students receive instruction and hands-on experience in the knowledge, activities and responsibilities required of operations-level HAZMAT responders. Students perform advanced, practical tasks in the Nation's only toxic chemical-agent training facility, the Chemical, Ordnance, Biological and Radiological (COBRA) Training Facility. This course trains responders to National Fire Protection Association&reg (NFPA&reg) 472: Standard for Competence of Responders to Hazardous Materials/Weapons of Mass Destruction Incidents (2013 ed.) operations-level competence (chapters 5, 6.2, 6.4, and 6.6).</p>

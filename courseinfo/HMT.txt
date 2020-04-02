@@ -1,7 +1,7 @@
 ﻿  <div class="title"><h1> Hazardous Materials Technician (HMT) </h1></div>
 
 <!--course media-->
-     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/erhm03.jpg"></div>
+     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/erhm03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 
  <div class="infobox">

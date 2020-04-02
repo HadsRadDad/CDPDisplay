@@ -1,5 +1,5 @@
   <div class="title"><h1> Hospital Emergency Response Training for Mass Casualty Incidents (HERT) </h1></div>
-    <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPDisplay/media/hert.jpg"></div>
+    <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/hert.jpg"></div>
  <div class="infobox">
 <h2>Overview</h2>
 <p>The Hospital Emergency Response Training for Mass Casualty Incidents course addresses healthcare response at the operations level for the facility and its personnel. This course prepares healthcare responders to utilize the Hospital Incident Command System (HICS) integrating into the community emergency response network while operating an Emergency Treatment Area (ETA) as hospital first responders during a mass casualty incident (MCI) involving patient contamination. The healthcare responders will determine and use appropriate Personal Protective Equipment (PPE), and conduct triage followed by decontamination of ambulatory and nonambulatory patients as members of a Hospital Emergency Response Team (HERT).</p>
