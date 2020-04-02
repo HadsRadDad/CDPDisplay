@@ -21,6 +21,11 @@
 			"src": "icon.png",
 			"type": "image/png",
 			"sizes": "256x256"
+		},
+		{
+			"src": "icon.png",
+			"type": "image/png",
+			"sizes": "512x512"
 		}
 	],
 	"start_url": "https://hadsraddad.github.io/CDPMoblieDisplayApp/",
