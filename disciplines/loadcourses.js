@@ -1,248 +1,248 @@
 $(document).ready(function () {
-	$('button').each(function (index, value) {
-		$(`#${this.id}`).click(function () {
-			$('#classinfo').load(`../courseinfo/${this.id}.txt`);
-		});
-	});
+  $("button").each(function (index, value) {
+    $(`#${this.id}`).click(function () {
+      $("#classinfo").load(`../courseinfo/${this.id}.txt`);
+    });
+  });
 });
 
 //JIC
 // $("#ARIO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ARIO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ARIO.txt");
 // });
 
 // $("#ASTTP").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ASTTP.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ASTTP.txt");
 // });
 
 // $("#BPAC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/BPAC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/BPAC.txt");
 // });
 
 // $("#BTM").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/BTM.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/BTM.txt");
 // });
 
 // $("#BMAP").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/BMAP.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/BMAP.txt");
 // });
 
 // $("#CSM").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/CSM.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/CSM.txt");
 // });
 
 // $("#EHTER").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/EHTER.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/EHTER.txt");
 // });
 
 // $("#EMO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/EMO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/EMO.txt");
 // });
 
 // $("#EMRA").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/EMRA.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/EMRA.txt");
 // });
 
 // $("#ERDB").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ERDB.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ERDB.txt");
 // });
 
 // $("#ERHM").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ERHM.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ERHM.txt");
 // });
 
 // $("#FFC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/FFC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/FFC.txt");
 // });
 
 // $("#FFCE").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/FFCE.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/FFCE.txt");
 // });
 
 // $("#FFE").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/FFE.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/FFE.txt");
 // });
 
 // $("#FFO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/FFO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/FFO.txt");
 // });
 
 // $("#FRAME").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/FRAME.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/FRAME.txt");
 // });
 
 // $("#HMO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HMO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HMO.txt");
 // });
 
 // $("#HCL").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HCL.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HCL.txt");
 // });
 
 // $("#HCRL").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HCRL.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HCRL.txt");
 // });
 
 // $("#HEC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HEC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HEC.txt");
 // });
 
 // $("#HERO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HERO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HERO.txt");
 // });
 
 // $("#HERT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HERT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HERT.txt");
 // });
 
 // $("#HERTBTTT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HERTBTTT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HERTBTTT.txt");
 // });
 
 // $("#HID").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HID.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HID.txt");
 // });
 
 // $("#HMT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HMT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HMT.txt");
 // });
 
 // $("#HMBR").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HMBR.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HMBR.txt");
 // });
 
 // $("#HOT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HOT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HOT.txt");
 // });
 
 // $("#HOTI").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HOTI.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HOTI.txt");
 // });
 
 // $("#HOTLE").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HOTLE.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HOTLE.txt");
 // });
 
 // $("#HT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HT.txt");
 // });
 
 // $("#IC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/IC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/IC.txt");
 // });
 
 // $("#ICR").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ICR.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ICR.txt");
 // });
 
 // $("#IED").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/IED.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/IED.txt");
 // });
 
 // $("#ILERSBA").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ILERSBA.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ILERSBA.txt");
 // });
 
 // $("#ITC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/ITC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/ITC.txt");
 // });
 
 // $("#LEPM").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/LEPM.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/LEPM.txt");
 // });
 
 // $("#LEPMTTT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/LEPMTTT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/LEPMTTT.txt");
 // });
 
 // $("#LERA").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/LERA.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/LERA.txt");
 // });
 
 // $("#PODET").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/PODET.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/PODET.txt");
 // });
 
 // $("#MPI").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/MPI.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/MPI.txt");
 // });
 
 // $("#PMC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/PMC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/PMC.txt");
 // });
 
 // $("#PPMB").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/PPMB.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/PPMB.txt");
 // });
 
 // $("#PPMBTTT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/PPMBTTT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/PPMBTTT.txt");
 // });
 
 // $("#RAAC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RAAC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RAAC.txt");
 // });
 
 // $("#RADTTT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RADTTT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RADTTT.txt");
 // });
 
 // $("#RCCC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RCCC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RCCC.txt");
 // });
 
 // $("#RDIR").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RDIR.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RDIR.txt");
 // });
 
 // $("#RECC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RECC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RECC.txt");
 // });
 
 // $("#REEC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/REEC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/REEC.txt");
 // });
 
 // $("#RERO").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RERO.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RERO.txt");
 // });
 
 // $("#RP").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RP.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RP.txt");
 // });
 
 // $("#RPCC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RPCC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RPCC.txt");
 // });
 
 // $("#RCTIC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RCTIC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RCTIC.txt");
 // });
 
 // $("#RPPR").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/RPPR.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/RPPR.txt");
 // });
 
 // $("#SAAC").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/SAAC.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/SAAC.txt");
 // });
 
 // $("#SAAT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/SAAT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/SAAT.txt");
 // });
 
 // $("#SAT").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/SAT.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/SAT.txt");
 // });
 
 // $("#SNS").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/SNS.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/SNS.txt");
 // });
 
 // $("#HMA").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/HMA.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/HMA.txt");
 // });
 
 // $("#VBIED").click(function(){
-//     $("#classinfo").load("https://hadsraddad.github.io/CDPMoblieDisplayApp/courseinfo/VBIED.txt");
+//     $("#classinfo").load("https://hadsraddad.github.io/CDP_Mobile_Display_App/courseinfo/VBIED.txt");
 // });

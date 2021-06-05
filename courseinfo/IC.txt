@@ -1,7 +1,7 @@
 <div class="title"><h1> Incident Command: Capabilities, Planning and Response Actions for All Hazards (IC) </h1></div>
 
  <div class="mediabox">
- <img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/ic03.jpg">
+ <img class="middle" src="https://hadsraddad.github.io/CDP_Mobile_Display_App/media/ic03.jpg">
  </div>
  <div class="infobox">
 <h2>Overview</h2>

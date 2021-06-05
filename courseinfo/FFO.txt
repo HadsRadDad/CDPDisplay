@@ -1,6 +1,6 @@
   <div class="title"><h1> Field Force Operations (FFO) </h1></div>
 <!--course media-->
-     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/ffo03.jpg"></div>
+     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDP_Mobile_Display_App/media/ffo03.jpg"></div>
 <!--END OF COURSE MEDIA-->
 
  <div class="infobox">

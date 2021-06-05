@@ -1,6 +1,6 @@
   <div class="title"><h1> Field Force Extrication Tactics (FFE) </h1></div>
 <!--course media-->
-     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDPMoblieDisplayApp/media/ffe03.jpg"></div>
+     <div class="mediabox"><img class="middle" src="https://hadsraddad.github.io/CDP_Mobile_Display_App/media/ffe03.jpg"></div>
  <div class="infobox">
 <h2>Overview</h2>
 <p>Field Force Extrication Tactics (FFE) is a three-day course that provides students with the knowledge and skills to operate the tools necessary to extricate individuals safely from protester devices while reducing liability and ensuring due process. Responders receive instruction in protest situations, legal considerations, responsibilities of extrication teams, and extrication techniques required to defeat protester devices. The course culminates in a series of hands-on activities that allow responders to practice the learned skills (operating extrication tools, defeating protester devices, and communicating with other students while operating power tools) in a realistic context.</p>
