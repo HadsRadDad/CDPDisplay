@@ -28,7 +28,7 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "https://hadsraddad.github.io/CDPMoblieDisplayApp/",
+	"start_url": "https://hadsraddad.github.io/CDP_Mobile_Display_App/",
 	"background_color": "#3367D6",
 	"display": "standalone",
 	"orientation": "portrait",
